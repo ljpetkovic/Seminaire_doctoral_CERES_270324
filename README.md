@@ -1,6 +1,6 @@
 # Projet Charcot · présentation des méthodes 
 
-Ce dépôt contient les diapositives pour le séminaire doctoral du CERES, avec la présentation des méthodes développées dans le cadre de ma thèse, intitulée : « Dans les petits papiers de Charcot : de l’expérimentation aux prémisses de la neurologie moderne ».
+Ce dépôt contient le matériel des diapositives pour le séminaire doctoral du CERES, avec la présentation des méthodes développées dans le cadre de la thèse, intitulée : « Dans les petits papiers de Charcot : de l’expérimentation aux prémisses de la neurologie moderne ».
 
 ### Informations pratiques
 
