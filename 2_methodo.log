@@ -1,0 +1,2105 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.11.13)  4 DEC 2023 13:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2_methodo.tex
+(./2_methodo.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{frame}{Fonds Charcot}
+                                
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no F ("46) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+
+! LaTeX Error: Environment block undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{block}
+                 {SorbonNum\footnote{\tiny{\url{https://patrimoine.sorbonne-...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no N ("4E) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.2 ...tps://patrimoine.sorbonne-universite.fr/}}}
+                                                   -- Bibliothèque de Sorbon...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.2 ...tps://patrimoine.sorbonne-universite.fr/}}}
+                                                   -- Bibliothèque de Sorbon...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \tiny 
+                 {\url {https://patrimoine.sorbonne-universite.fr/}}
+l.2 ...tps://patrimoine.sorbonne-universite.fr/}}}
+                                                   -- Bibliothèque de Sorbon...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \tiny {\url 
+                       {https://patrimoine.sorbonne-universite.fr/}}
+l.2 ...tps://patrimoine.sorbonne-universite.fr/}}}
+                                                   -- Bibliothèque de Sorbon...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (127.97pt too wide) in paragraph at lines 2--2
+[][]\TU/lmr/m/n/10 https://patrimoine.sorbonne-
+ []
+
+
+Overfull \hbox (57.07pt too wide) in paragraph at lines 2--2
+\TU/lmr/m/n/10 universite.fr/| 
+ []
+
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no B ("42) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no è ("E8) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no U ("55) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no B ("42) in font nullfont!
+Missing character: There is no S ("53) in font nullfont!
+Missing character: There is no U ("55) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no X ("58) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no L ("4C) in font nullfont!
+Missing character: There is no O ("4F) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+! LaTeX Error: \begin{frame} on input line 1 ended by \end{block}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \end{block}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--5
+[][]
+ []
+
+
+Overfull \hbox (4.483pt too wide) in paragraph at lines 1--5
+[]
+ []
+
+! Undefined control sequence.
+<recently read> \og 
+                    
+l.6     \item \og
+                 {}Charcot\fg{} : textes rédigés par Charcot
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Undefined control sequence.
+l.6     \item \og{}Charcot\fg
+                             {} : textes rédigés par Charcot
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Undefined control sequence.
+<recently read> \og 
+                    
+l.7     \item \og
+                 {}Autres\fg{} : textes rédigés par son réseau scientifique
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+! Undefined control sequence.
+l.7     \item \og{}Autres\fg
+                            {} : textes rédigés par son réseau scientifique
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no : ("3A) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+
+! LaTeX Error: Environment table undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \begin{table}
+                 [!ht]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+! Undefined control sequence.
+<recently read> \rowcolor 
+                          
+l.13     \rowcolor
+                  {gray!30}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no N ("4E) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no N ("4E) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no k ("6B) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+! Undefined control sequence.
+<recently read> \og 
+                    
+l.16        \og
+               {}Charcot\fg{}  & 68 & 12 190 649 (38,12\%) \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Undefined control sequence.
+l.16        \og{}Charcot\fg
+                           {}  & 68 & 12 190 649 (38,12\%) \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 6 ("36) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 6 ("36) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no % ("25) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+! Undefined control sequence.
+<recently read> \og 
+                    
+l.17        \og
+               {}Autres\fg{}  & 133 & 19 788 830 (61,88\%) \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+! Undefined control sequence.
+l.17        \og{}Autres\fg
+                          {}  & 133 & 19 788 830 (61,88\%) \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 6 ("36) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no % ("25) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no % ("25) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22     \caption
+                 {Répartition du corpus issu du fonds Charcot\footnote{\tiny...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no R ("52) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.22 ...-universite.fr/collection/Fonds-Charcot}}}
+                                                  .}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.22 ...-universite.fr/collection/Fonds-Charcot}}}
+                                                  .}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \tiny 
+                 {\url {https://patrimoine.sorbonne-universite.fr/collection...
+l.22 ...-universite.fr/collection/Fonds-Charcot}}}
+                                                  .}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \tiny {\url 
+                       {https://patrimoine.sorbonne-universite.fr/collection...
+l.22 ...-universite.fr/collection/Fonds-Charcot}}}
+                                                  .}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (127.97pt too wide) in paragraph at lines 22--22
+[][]\TU/lmr/m/n/10 https://patrimoine.sorbonne-
+ []
+
+
+Overfull \hbox (132.27pt too wide) in paragraph at lines 22--22
+\TU/lmr/m/n/10 universite.fr/collection/Fonds-
+ []
+
+
+Overfull \hbox (35.03pt too wide) in paragraph at lines 22--22
+\TU/lmr/m/n/10 Charcot| 
+ []
+
+Missing character: There is no . ("2E) in font nullfont!
+
+! LaTeX Error: \begin{frame} on input line 1 ended by \end{table}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \end{table}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (96.95006pt too wide) in paragraph at lines 9--26
+ []
+ []
+
+
+Overfull \hbox (4.483pt too wide) in paragraph at lines 9--26
+[]
+ []
+
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no ' ("27) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no ' ("27) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \begin{figure}
+                   [!h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+! Undefined control sequence.
+l.32 \includegraphics
+                     [width=80mm,scale=0.5]{pic/charcot_intertextualite.jpg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no w ("77) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 8 ("38) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no / ("2F) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.32 ...raphics[width=80mm,scale=0.5]{pic/charcot_
+                                                  intertextualite.jpg}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.32 ...cale=0.5]{pic/charcot_intertextualite.jpg}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33     \caption
+                 {Opérationnalisation de l'impact de Charcot sur ses élèves.}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{frame} on input line 28 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.35 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no é ("E9) in font cmmi10!
+Missing character: There is no é ("E9) in font cmmi10!
+Missing character: There is no è ("E8) in font cmmi10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.35 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 28--37
+[][]
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 28--37
+\OMS/cmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (312.64026pt too wide) in paragraph at lines 28--37
+[]\OML/cmm/m/it/10 ntertextualite:jpg[][]$
+ []
+
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no è ("E8) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.39 ...te{\url{https://obtic.huma-num.fr/obvie/}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.39 ...te{\url{https://obtic.huma-num.fr/obvie/}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {https://obtic.huma-num.fr/obvie/}
+l.39 ...te{\url{https://obtic.huma-num.fr/obvie/}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (87.29001pt too wide) in paragraph at lines 39--39
+[][]\TU/lmr/m/n/10 https://obtic.huma-
+ []
+
+
+Overfull \hbox (61.71pt too wide) in paragraph at lines 39--39
+\TU/lmr/m/n/10 num.fr/obvie/| 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--40
+[][]
+ []
+
+
+Overfull \hbox (20.65pt too wide) in paragraph at lines 38--40
+\TU/lmr/bx/n/10 OB-
+ []
+
+
+Overfull \hbox (25.093pt too wide) in paragraph at lines 38--40
+\TU/lmr/bx/n/10 VIE[] 
+ []
+
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+
+Overfull \hbox (28.64pt too wide) in paragraph at lines 41--42
+\TU/lmr/m/sc/10 XML-
+ []
+
+
+Overfull \hbox (19.34pt too wide) in paragraph at lines 41--42
+\TU/lmr/m/sc/10 TEI 
+ []
+
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no T ("54) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+
+Overfull \hbox (18.77pt too wide) in paragraph at lines 44--45
+\TU/lmr/m/sc/10 TF-
+ []
+
+
+Overfull \hbox (19.48pt too wide) in paragraph at lines 44--45
+\TU/lmr/m/sc/10 IDF
+ []
+
+
+Overfull \hbox (28.66pt too wide) in paragraph at lines 44--45
+\TU/lmr/m/sc/10 BM25
+ []
+
+
+Overfull \hbox (10.74304pt too wide) in paragraph at lines 44--45
+\OML/cmm/m/it/10 ^^_[]$
+ []
+
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no à ("E0) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no O ("4F) in font nullfont!
+Missing character: There is no B ("42) in font nullfont!
+Missing character: There is no V ("56) in font nullfont!
+Missing character: There is no I ("49) in font nullfont!
+Missing character: There is no E ("45) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.50 ....huma-num.fr/obvie/charcot/?view=corpus}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.50 ....huma-num.fr/obvie/charcot/?view=corpus}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {https://obtic.huma-num.fr/obvie/charcot/?view=corpus}
+l.50 ....huma-num.fr/obvie/charcot/?view=corpus}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (87.29001pt too wide) in paragraph at lines 50--50
+[][]\TU/lmr/m/n/10 https://obtic.huma-
+ []
+
+
+Overfull \hbox (159.32pt too wide) in paragraph at lines 50--50
+\TU/lmr/m/n/10 num.fr/obvie/charcot/?view=corpus| 
+ []
+
+! Undefined control sequence.
+l.51 \danger
+             impossible de quantifier l'importance des MWEs
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no ' ("27) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no M ("4D) in font nullfont!
+Missing character: There is no W ("57) in font nullfont!
+Missing character: There is no E ("45) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \begin{figure}
+                   [!h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+! Undefined control sequence.
+l.54 \includegraphics
+                     [width=90mm,scale=0.5]{pic/bulbe_rachidien.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no w ("77) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no / ("2F) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.54 ...egraphics[width=90mm,scale=0.5]{pic/bulbe_
+                                                  rachidien.png}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+l.54 ...h=90mm,scale=0.5]{pic/bulbe_rachidien.png}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55     \caption
+                 {Distribution des fréquences des tokens avec la frise chron...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.55 ...tit{bulbe rachidien} (issus des corpus \og
+                                                  {}Charcot\fg{} et \og{}Aut...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 ...chidien} (issus des corpus \og{}Charcot\fg
+                                                  {} et \og{}Autres\fg{}).}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 ...(issus des corpus \og{}Charcot\fg{} et \og
+                                                  {}Autres\fg{}).}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.55 ...corpus \og{}Charcot\fg{} et \og{}Autres\fg
+                                                  {}).}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{frame} on input line 50 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 \end{figure}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.57 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no é ("E9) in font cmmi10!
+! Missing } inserted.
+<inserted text> 
+                }
+l.57 \end{figure}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (24.483pt too wide) in paragraph at lines 50--60
+[][]
+ []
+
+
+Overfull \hbox (700.63055pt too wide) in paragraph at lines 50--60
+[]\OML/cmm/m/it/10 achidien:png[][]$
+ []
+
+Missing character: There is no D ("44) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no è ("E8) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.62 ...s://artfl-project.uchicago.edu/text-pair}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.62 ...s://artfl-project.uchicago.edu/text-pair}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {https://artfl-project.uchicago.edu/text-pair}
+l.62 ...s://artfl-project.uchicago.edu/text-pair}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (57.04001pt too wide) in paragraph at lines 62--62
+[][]\TU/lmr/m/n/10 https://artfl-
+ []
+
+
+Overfull \hbox (115.04001pt too wide) in paragraph at lines 62--62
+\TU/lmr/m/n/10 project.uchicago.edu/text-
+ []
+
+
+Overfull \hbox (17.26pt too wide) in paragraph at lines 62--62
+\TU/lmr/m/n/10 pair| 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 61--63
+[][]
+ []
+
+
+Overfull \hbox (48.393pt too wide) in paragraph at lines 61--63
+\TU/lmr/bx/n/10 TextPair[] 
+ []
+
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no è ("E8) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no v ("76) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no ’ ("2019) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no D ("44) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no è ("E8) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no y ("79) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no T ("54) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no P ("50) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+! Undefined control sequence.
+\@footnotetext ...tins {\reset@font \footnotesize 
+                                                  \interlinepenalty \interfo...
+l.71 ....uchicago.edu/text-pair/charcot2autres/}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\@footnotetext ...}\color@begingroup \@makefntext 
+                                                  {\rule \z@ \footnotesep \i...
+l.71 ....uchicago.edu/text-pair/charcot2autres/}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \url 
+                {https://anomander.uchicago.edu/text-pair/charcot2autres/}
+l.71 ....uchicago.edu/text-pair/charcot2autres/}}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (168.16pt too wide) in paragraph at lines 71--71
+[][]\TU/lmr/m/n/10 https://anomander.uchicago.edu/text-
+ []
+
+
+Overfull \hbox (90.98001pt too wide) in paragraph at lines 71--71
+\TU/lmr/m/n/10 pair/charcot2autres/| 
+ []
+
+! Undefined control sequence.
+l.72 \danger
+             nombre de
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no b ("62) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no z ("7A) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no - ("2D) in font nullfont!
+Missing character: There is no f ("66) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74     \begin{figure}
+                       [!ht]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no ! ("21) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+! Undefined control sequence.
+l.76         \includegraphics
+                             [width=90mm,scale=0.5]{pic/textpair.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ ("5B) in font nullfont!
+Missing character: There is no w ("77) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 9 ("39) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no , ("2C) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no = ("3D) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no ] ("5D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no / ("2F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77         \caption
+                     {Alignement et comparaison des textes de
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no A ("41) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no m ("6D) in font nullfont!
+Missing character: There is no p ("70) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no x ("78) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no C ("43) in font nullfont!
+Missing character: There is no h ("68) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no à ("E0) in font nullfont!
+Missing character: There is no c ("63) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no g ("67) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no G ("47) in font nullfont!
+Missing character: There is no i ("69) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no d ("64) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no T ("54) in font nullfont!
+Missing character: There is no o ("6F) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no é ("E9) in font nullfont!
+Missing character: There is no s ("73) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no ç ("E7) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no n ("6E) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no l ("6C) in font nullfont!
+Missing character: There is no a ("61) in font nullfont!
+Missing character: There is no r ("72) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no q ("71) in font nullfont!
+Missing character: There is no u ("75) in font nullfont!
+Missing character: There is no ê ("EA) in font nullfont!
+Missing character: There is no t ("74) in font nullfont!
+Missing character: There is no e ("65) in font nullfont!
+Missing character: There is no . ("2E) in font nullfont!
+
+! LaTeX Error: \begin{frame} on input line 71 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.82     \end{figure}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> 2_methodo.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 45 strings out of 476191
+ 862 string characters out of 5812071
+ 302149 words of memory out of 5000000
+ 20877 multiletter control sequences out of 15000+600000
+ 469299 words of font info for 33 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 24i,8n,14p,243b,178s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

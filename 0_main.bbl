@@ -1,0 +1,120 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{amiri}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=AVV}{%
+         family={Amiri},
+         familyi={A\bibinitperiod},
+         given={V.\bibnamedelima V.},
+         giveni={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AVV1}
+    \strng{fullhash}{AVV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+  \field{howpublished}{\url{https://histoirephilosciences.wordpress.com/depuis-le-20eme-siecles/une-nouvelle-epistemologie/t-s-kuhn/}}
+    \field{title}{T.S. Kuhn}
+    \field{year}{2012}
+  \endentry
+
+  \entry{bachelard1934formation}{book}{}
+    \name{author}{1}{}{%
+      {{hash=BG}{%
+         family={Bachelard},
+         familyi={B\bibinitperiod},
+         given={G.},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Vrin}%
+    }
+    \strng{namehash}{BG1}
+    \strng{fullhash}{BG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1934}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+  \field{note}{\url{https://gastonbachelard.org/wp-content/uploads/2015/07/formation_esprit.pdf}}
+    \field{title}{La formation de l'esprit scientifique: contribution {\`a} une
+  psychanalyse de la connaissance}
+    \field{year}{1934}
+  \endentry
+
+  \entry{koyre1957closed}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KA}{%
+         family={Koyr{\'e}},
+         familyi={K\bibinitperiod},
+         given={Alexandre},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Baltimore, Johns Hopkins Press}%
+    }
+    \strng{namehash}{KA1}
+    \strng{fullhash}{KA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1957}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+  \field{note}{\url{https://archive.org/details/fromclosedworldt0000koyr/page/n13/mode/2up?q=revolution}}
+    \field{title}{From the closed world to the infinite universe}
+    \field{volume}{1}
+    \field{year}{1957}
+  \endentry
+
+  \entry{kuhn1962structure}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KTS}{%
+         family={Kuhn},
+         familyi={K\bibinitperiod},
+         given={T.\bibnamedelima S.},
+         giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Flammarion Paris}%
+    }
+    \strng{namehash}{KTS1}
+    \strng{fullhash}{KTS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1962}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{note}{Traduit par Laure Meyer,
+  \url{https://kupdf.net/download/la-structure-des-r-eacute-volutions-scientifiques-thomas-s-kuhn_590217dadc0d60c957959eb4_pdf}}
+    \field{title}{La structure des r{\'e}volutions scientifiques}
+    \field{year}{1962}
+  \endentry
+\enddatalist
+\endinput

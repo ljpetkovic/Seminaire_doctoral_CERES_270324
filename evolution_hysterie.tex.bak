@@ -1,0 +1,17 @@
+\begin{frame}{L'évolution du terme \textit{hystérie}}
+\begin{table}[]
+\begin{tabular}{lcl}
+\multicolumn{1}{l}{\textrm{Période}} & \multicolumn{1}{c}{\textrm{Sexe}} & \multicolumn{1}{c}{\textrm{Étiologie}}   \\
+\hline \hline
+Antiquité   & \female{}             & \begin{tabular}[c]{@{}l@{}}{\small déplacement de l'utérus, selon Hippocrate\footnote{{\small\cite{tasca2012women}}}}\\\end{tabular}          \\ \hline
+Moyen Âge   & \female{}             & \begin{tabular}[c]{@{}l@{}}{\small possession démoniaque (superstition religieuse)\footnote{{\small\cite{tasca2012women}}}}\end{tabular} \\ \hline
+Renaissance & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\small localisation dans le \textit{sensorium commune}\footnote{{\small\cite{lepois1618}}}}\end{tabular}   \\ \hline
+Lumières    & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\small explosion des \og{}esprits animaux\fg{} dans le cerveau\footnote{{\small\cite{willispathologiae}}}}\end{tabular} \\ \hline
+\rowcolor{LightCyan}
+\textsc{XIX}\ieme{} s. & \female{}/\male{} & \begin{tabular}[c]{@{}l@{}}{\small dégénérescence héréditaire du système nerveux\footnote{{\small\cite{charcot1870}}}}\end{tabular}
+\end{tabular}
+\end{table}
+\end{frame}
+
+
+
