@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  18 MAR 2024 18:25
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  22 MAR 2024 11:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,7 +895,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@cols=\count332
 \TX@ftn=\toks48
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
@@ -1370,11 +1370,11 @@ Package biblatex Info: ... and expl3
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Redefining '\cite' on input line 42.
-Package biblatex Info: Redefining '\parencite' on input line 56.
-Package biblatex Info: Redefining '\footcite' on input line 70.
-Package biblatex Info: Redefining '\footcitetext' on input line 77.
-Package biblatex Info: Redefining '\textcite' on input line 94.
+Package biblatex Info: Redefining '\cite' on input line 43.
+Package biblatex Info: Redefining '\parencite' on input line 57.
+Package biblatex Info: Redefining '\footcite' on input line 71.
+Package biblatex Info: Redefining '\footcitetext' on input line 78.
+Package biblatex Info: Redefining '\textcite' on input line 95.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
@@ -1679,7 +1679,7 @@ Package french.ldf Info: No need for active punctuation characters
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 Package french.ldf Info: No list customisation for the beamer class,
-(french.ldf)             reported on input line 115.
+(french.ldf)             reported on input line 116.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
@@ -1789,51 +1789,51 @@ File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 132.
+(hyperref)                removing `\mathsurround' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 132.
+(hyperref)                removing `\z@' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 132.
+(hyperref)                removing `superscript' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 132.
+(hyperref)                removing `\mathsurround' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 132.
+(hyperref)                removing `\z@' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 132.
+(hyperref)                removing `superscript' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 132.
+(hyperref)                removing `\mathsurround' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 132.
+(hyperref)                removing `\z@' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 132.
+(hyperref)                removing `superscript' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 132.
+(hyperref)                removing `\\' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 132.
+(hyperref)                removing `\new@ifnextchar' on input line 133.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\medskipamount' on input line 132.
+(hyperref)                removing `\medskipamount' on input line 133.
 
 (./YTU.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
@@ -1867,49 +1867,49 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./0_main.aux)
 \openout1 = `0_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 174.
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 174.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 175.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 175.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 
-174.
+175.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 175.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-174.
+175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 174.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 174.
+LaTeX Font Info:    ... okay on input line 175.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 175.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-174.
+175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 174.
+LaTeX Font Info:    ... okay on input line 175.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1945,7 +1945,7 @@ LaTeX Font Info:    ... okay on input line 174.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 174.
+Package hyperref Info: Link coloring ON on input line 175.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -1957,61 +1957,61 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count562
 )
-LaTeX Info: Redefining \ref on input line 174.
-LaTeX Info: Redefining \pageref on input line 174.
-LaTeX Info: Redefining \nameref on input line 174.
+LaTeX Info: Redefining \ref on input line 175.
+LaTeX Info: Redefining \pageref on input line 175.
+LaTeX Info: Redefining \nameref on input line 175.
 
 (./0_main.out) (./0_main.out)
 \@outlinefile=\write6
 \openout6 = `0_main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 174.
+(Font)              `operators' in the math version `normal' on input line 175.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 174.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 175.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 174.
+(Font)              `operators' in the math version `bold' on input line 175.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 174.
+(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 175.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> TU/lmr/m/n on input line 174.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 174.
+(Font)                  T1/futs/m/n --> TU/lmr/m/n on input line 175.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/futs/bx/n --> TU/lmss/b/n on input line 174.
+(Font)                  T1/futs/bx/n --> TU/lmss/b/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/futs/bx/n --> TU/lmss/b/n on input line 174.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 174.
+(Font)                  T1/futs/bx/n --> TU/lmss/b/n on input line 175.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 174.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 174.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 174.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/m/n on input line 175.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/futs/m/it --> TU/lmss/m/it on input line 174.
+(Font)                  T1/futs/m/it --> TU/lmss/m/it on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/futs/m/it --> TU/lmss/m/it on input line 174.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 174.
+(Font)                  T1/futs/m/it --> TU/lmss/m/it on input line 175.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 174.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 174.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 175.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 174.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 175.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 174.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> TU/lmr/b/n on input line 174.
+(Font)                  T1/futs/m/n --> TU/lmr/b/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 174.
+(Font)                  TU/lmss/b/n --> TU/lmss/b/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 174.
+(Font)                  TU/lmss/m/n --> TU/lmss/b/n on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 174.
+(Font)                  TU/lmss/m/it --> TU/lmss/b/it on input line 175.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 174.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 175.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -2042,8 +2042,8 @@ tionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2021/12/12 v2.
 5.8 Chinese translation for theorem name (CTEX)
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 174.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 174.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 175.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 175.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: french babel package is loaded.
 Package caption Info: listings package is loaded.
@@ -2067,57 +2067,57 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '0_main.bbl' found.
  (./0_main.bbl)
-Package biblatex Info: Reference section=0 on input line 174.
-Package biblatex Info: Reference segment=0 on input line 174.
+Package biblatex Info: Reference section=0 on input line 175.
+Package biblatex Info: Reference segment=0 on input line 175.
 \c@lstlisting=\count563
-LaTeX Info: Redefining \up on input line 174.
+LaTeX Info: Redefining \up on input line 175.
  (./0_main.nav)
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 174.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 175.
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 174.
+ 175.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 174.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 174
+(Font)              scaled to size 5.51999pt on input line 175.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 175
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 174
+LaTeX Font Info:    Trying to load font information for U+msb on input line 175
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 174.
+(Font)              scaled to size 5.51999pt on input line 175.
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 17
-4.
+5.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-Overfull \hbox (72.83794pt too wide) in paragraph at lines 174--174
+Overfull \hbox (72.83794pt too wide) in paragraph at lines 175--175
 [][]  
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 191.
+(Font)              scaled to size 9.19998pt on input line 192.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 191.
+(Font)              scaled to size 6.99199pt on input line 192.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 191.
+(Font)              scaled to size 9.19998pt on input line 192.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 191.
+(Font)              scaled to size 6.99199pt on input line 192.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 191.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 192.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <7.6> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 191.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 192.
 
 Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
 (fontspec)                Script "CJK".
@@ -2136,11 +2136,11 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <6> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 191.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 192.
 
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <8> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 191.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 192.
 
 File: pic/Lettres_su_logo.png Graphic file (type bmp)
 <pic/Lettres_su_logo.png>
@@ -2176,19 +2176,23 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [3
 
 ] (./1-1_rupture.tex
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 26.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 26.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 26.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 26.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 15.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 15.
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 15.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 15.
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 15.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8.3> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 15.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
+LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
 
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
 Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
 ng=tex-text;!
 Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
@@ -2197,56 +2201,8 @@ Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mapp
 ng=tex-text;!
 File: pic/changement_paradigme.png Graphic file (type bmp)
 <pic/changement_paradigme.png>
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
-ng=tex-text;!
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
-ng=tex-text;!
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <12> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 15.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 26.
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2293,18 +2249,16 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 
 Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
 ng=tex-text;!
-LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 243.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 243.
+(Font)              scaled to size 7.35999pt on input line 244.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 243.
+(Font)              scaled to size 6.25598pt on input line 244.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 243.
+(Font)              scaled to size 7.35999pt on input line 244.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 243.
+(Font)              scaled to size 6.25598pt on input line 244.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <6.8> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 243.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 244.
 File: beamericonbook.pdf Graphic file (type pdf)
 <use beamericonbook.pdf>
 Missing character: There is no ​ (U+200B) in font [lmromancaps10-regular]:mappi
@@ -2344,12 +2298,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 42060 strings out of 476191
- 872031 string characters out of 5812072
- 1606559 words of memory out of 5000000
- 61954 multiletter control sequences out of 15000+600000
+ 42123 strings out of 476191
+ 874029 string characters out of 5812072
+ 1605991 words of memory out of 5000000
+ 62017 multiletter control sequences out of 15000+600000
  502078 words of font info for 142 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,21n,122p,1859b,5166s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,21n,122p,1859b,5019s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 0_main.pdf (8 pages).
