@@ -1,0 +1,24 @@
+\begin{frame}{Évolution du terme \textit{hystérie}}
+Exemple du changement de paradigme : le terme d'\textsc{hystérie}
+\begin{itemize}
+ \item grec \textgreek{ὑστέρα}, latin \textit{hystera} : \og{}utérus, matrice\fg{} 
+\end{itemize}
+\begin{table}[h!]
+\footnotesize
+\begin{tabular}{lcl}
+\multicolumn{1}{l}{\textrm{Période}} & \multicolumn{1}{c}{\textrm{Sexe}} & \multicolumn{1}{c}{\textrm{Étiologie}}   \\
+\hline \hline
+Antiquité   & \female{}             & \begin{tabular}[c]{@{}l@{}}{\footnotesize déplacement de l'utérus, selon Hippocrate\footnote{{\footnotesize\cite{tasca2012women}}}\\\textit{hystérique} : (femme) malade de l'utérus}\end{tabular}          \\ \hline
+Moyen Âge   & \female{}             & \begin{tabular}[c]{@{}l@{}}{\footnotesize possession démoniaque, superstition religieuse\footnote{{\footnotesize\cite{tasca2012women}}}\\ 	$\rightarrow$ Église : chasses, tortures, exorcisme}\end{tabular} \\ \hline
+Renaissance & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\footnotesize localisation dans le cerveau, \textit{sensorium commune}\footnote{{\footnotesize\cite{lepois1618}}}\\\og{}siège commun de la sensibilité\fg{}, perceptions (Kant, 2222)}\end{tabular}   \\ \hline
+Lumières    & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\footnotesize explosion des \og{}esprits animaux\fg{} dans le cerveau\footnote{{\footnotesize\cite{willispathologiae}}}}\end{tabular} \\ \hline
+\rowcolor{LightCyan}
+\textsc{XIX}\ieme{} s. & \female{}/\male{} & \begin{tabular}[c]{@{}l@{}}{\footnotesize dégénérescence héréditaire du système nerveux\footnote{{\footnotesize\cite{charcot1870}}}}\end{tabular}
+\end{tabular}
+\end{table}
+\begin{itemize}
+\end{itemize}
+\end{frame}
+
+
+

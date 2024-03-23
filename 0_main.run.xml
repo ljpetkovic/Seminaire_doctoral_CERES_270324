@@ -62,6 +62,7 @@
       <file>authoryear.cbx</file>
       <file>biblatex.cfg</file>
       <file>french.lbx</file>
+      <file>greek.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">

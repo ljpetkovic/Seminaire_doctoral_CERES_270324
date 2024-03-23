@@ -112,7 +112,14 @@ backref=true
 % other packages
 \usepackage{latexsym,amsmath,multicol,booktabs,calligra}
 \usepackage{graphicx,listings,stackengine}
-\usepackage[french]{babel}
+\usepackage[greek,french]{babel}
+\usepackage[LGR,T1]{fontenc}
+\usepackage{fontspec}
+
+% Define a command for text in Greek. Replace 'Gentium Plus' with a font of your choice if necessary.
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\textgreek}[1]{{\greekfont #1}}
+
 \DefineBibliographyStrings{french}{%
   backrefpage = {voir p\adddot},%
   backrefpages = {voir pp\adddot}%
@@ -201,7 +208,7 @@ backref=true
 \input{1-1_rupture}
 
 %\subsection{Évolution du terme \textit{hystérie}}
-%\input{1-2_evolution_hysterie}
+\input{1-2_evolution_hysterie}
 
 %\subsection{\og Napoléon des névroses \fg{} ou \og Paganini de l'hystérie \fg{}  }
 %\input{1-3_napoleon}

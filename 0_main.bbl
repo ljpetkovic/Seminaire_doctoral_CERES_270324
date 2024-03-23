@@ -65,6 +65,58 @@
     \field{year}{1934}
   \endentry
 
+  \entry{charcot1870}{book}{}
+    \name{author}{1}{}{%
+      {{hash=CJM}{%
+         family={Charcot},
+         familyi={C\bibinitperiod},
+         given={J.-M.},
+         giveni={J\bibinithyphendelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bibliothèque de Sorbonne Université (BSU) -- Bibliothèque Charcot}%
+    }
+    \strng{namehash}{CJM1}
+    \strng{fullhash}{CJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1870}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+  \field{note}{\url{https://patrimoine.sorbonne-universite.fr/fonds/item/3622-manuscrit-n-3-lecons}}
+    \field{title}{Manuscrit n° 3 : leçons (Manuscrits des leçons et
+  observations de J.M. Charcot)}
+    \field{year}{1870}
+  \endentry
+
+  \entry{kant1863}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KE}{%
+         family={Kant},
+         familyi={K\bibinitperiod},
+         given={{\'E}mmanuel},
+         giveni={{\'E}\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Librairie Ladrange (originalement publié en 1798)}%
+    }
+    \strng{namehash}{KE1}
+    \strng{fullhash}{KE1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1863}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+  \field{note}{\url{https://fr.wikisource.org/wiki/Anthropologie_d\%E2\%80\%99un_point_de_vue_pragmatique}}
+    \field{title}{Anthropologie d'un point de vue pragmatique
+  \normalfont{(trad. J. Tissot)}}
+    \field{year}{1863}
+  \endentry
+
   \entry{koyre1957closed}{book}{}
     \name{author}{1}{}{%
       {{hash=KA}{%
@@ -115,6 +167,104 @@
   \url{https://kupdf.net/download/la-structure-des-r-eacute-volutions-scientifiques-thomas-s-kuhn_590217dadc0d60c957959eb4_pdf}}
     \field{title}{La structure des r{\'e}volutions scientifiques}
     \field{year}{1962}
+  \endentry
+
+  \entry{lepois1618}{book}{}
+    \name{author}{1}{}{%
+      {{hash=LPC}{%
+         family={Le\bibnamedelima Pois},
+         familyi={L\bibinitperiod\bibinitdelim P\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Authore Carolo Pisone, Ponte ad Monticulum, apud Carolum Mercatorem}%
+    }
+    \strng{namehash}{LPC1}
+    \strng{fullhash}{LPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1618}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+  \field{note}{\url{https://archive.org/details/BIUSante_05814/page/n3/mode/2up}}
+    \field{title}{Selectiorum observationum et consiliorum de praetervisis
+  hactenus morbis affectibusque praeter naturum, ab aqua seu serosa colluvie et
+  diluvie ortis, liber singularis}
+    \field{year}{1618}
+  \endentry
+
+  \entry{tasca2012women}{article}{}
+    \name{author}{4}{}{%
+      {{hash=TC}{%
+         family={Tasca},
+         familyi={T\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rapetti},
+         familyi={R\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CMG}{%
+         family={Carta},
+         familyi={C\bibinitperiod},
+         given={M.\bibnamedelima G.},
+         giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=FB}{%
+         family={Fadda},
+         familyi={F\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Bentham Science Publishers}%
+    }
+    \strng{namehash}{TC+1}
+    \strng{fullhash}{TCRMCMGFB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{note}{\url{https://doi.org/10.2174/1745017901208010110}}
+    \field{pages}{110}
+    \field{title}{Women and hysteria in the history of mental health}
+    \field{volume}{8}
+    \field{journaltitle}{Clinical practice and epidemiology in mental health:
+  CP \& EMH}
+    \field{year}{2012}
+  \endentry
+
+  \entry{willispathologiae}{book}{}
+    \name{author}{1}{}{%
+      {{hash=WT}{%
+         family={Willis},
+         familyi={W\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WT1}
+    \strng{fullhash}{WT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1667/1681}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+  \field{note}{\textit{\href{https://quod.lib.umich.edu/e/eebo/A66496.0001.001?rgn=main;view=fulltext}{An
+  essay of the pathology of the brain and nervous stock in which convulsive
+  diseases are treated of}} (trad. par Samuel Pordage)}
+    \field{title}{Pathologiae cerebri et nervosi generis specimen.}
+    \field{year}{1667/1681}
   \endentry
 \enddatalist
 \endinput
