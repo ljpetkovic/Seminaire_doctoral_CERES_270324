@@ -65,6 +65,72 @@
     \field{year}{1934}
   \endentry
 
+  \entry{camargo2024jean}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CCHF}{%
+         family={Camargo},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima H.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Coutinho},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CNY}{%
+         family={Correa\bibnamedelima Neto},
+         familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Engelhardt},
+         familyi={E\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MFP}{%
+         family={Maranh{\~a}o\bibnamedelima Filho},
+         familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=THAG}{%
+         family={Teive},
+         familyi={T\bibinitperiod},
+         given={H.\bibnamedelima A.\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciELO Brasil}%
+    }
+    \strng{namehash}{CCHF+1}
+    \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{note}{\url{https://doi.org/10.1055\%2Fs-0043-1775984}}
+    \field{pages}{1098\bibrangedash 1111}
+    \field{title}{Jean-Martin Charcot: the polymath}
+    \field{volume}{81}
+    \field{journaltitle}{Arquivos de Neuro-psiquiatria}
+    \field{year}{2024}
+  \endentry
+
   \entry{charcot1870}{book}{}
     \name{author}{1}{}{%
       {{hash=CJM}{%
@@ -194,6 +260,34 @@
   hactenus morbis affectibusque praeter naturum, ab aqua seu serosa colluvie et
   diluvie ortis, liber singularis}
     \field{year}{1618}
+  \endentry
+
+  \entry{marmion2015freud}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJF}{%
+         family={Marmion},
+         familyi={M\bibinitperiod},
+         given={J.-F.},
+         giveni={J\bibinithyphendelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sciences Humaines}%
+    }
+    \strng{namehash}{MJF1}
+    \strng{fullhash}{MJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{title}{Freud et la psychanalyse}
+    \verb{url}
+    \verb https://www.cairn.info/freud-et-la-psychanalyse--9782361063542-page-2
+    \verb 2.htm
+    \endverb
+    \field{year}{2015}
   \endentry
 
   \entry{tasca2012women}{article}{}

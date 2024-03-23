@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 MAR 2024 13:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 MAR 2024 23:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -895,7 +895,24 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@cols=\count332
 \TX@ftn=\toks48
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/12/15 v3.1 ragged2e Package
+\CenteringLeftskip=\skip67
+\RaggedLeftLeftskip=\skip68
+\RaggedRightLeftskip=\skip69
+\CenteringRightskip=\skip70
+\RaggedLeftRightskip=\skip71
+\RaggedRightRightskip=\skip72
+\CenteringParfillskip=\skip73
+\RaggedLeftParfillskip=\skip74
+\RaggedRightParfillskip=\skip75
+\JustifyingParfillskip=\skip76
+\CenteringParindent=\skip77
+\RaggedLeftParindent=\skip78
+\RaggedRightParindent=\skip79
+\JustifyingParindent=\skip80
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
@@ -982,12 +999,12 @@ Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen321
 \l__xtemplate_tmp_int=\count345
 \l__xtemplate_tmp_muskip=\muskip18
-\l__xtemplate_tmp_skip=\skip67
+\l__xtemplate_tmp_skip=\skip81
 )
 \l__xeCJK_tmp_int=\count346
 \l__xeCJK_tmp_box=\box82
 \l__xeCJK_tmp_dim=\dimen322
-\l__xeCJK_tmp_skip=\skip68
+\l__xeCJK_tmp_skip=\skip82
 \g__xeCJK_space_factor_int=\count347
 \l__xeCJK_begin_int=\count348
 \l__xeCJK_end_int=\count349
@@ -999,7 +1016,7 @@ Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip69
+\l__xeCJK_last_skip=\skip83
 \g__xeCJK_node_int=\count350
 \c__xeCJK_CJK_node_dim=\dimen323
 \c__xeCJK_CJK-space_node_dim=\dimen324
@@ -1007,9 +1024,9 @@ Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \c__xeCJK_default-space_node_dim=\dimen326
 \c__xeCJK_CJK-widow_node_dim=\dimen327
 \c__xeCJK_normalspace_node_dim=\dimen328
-\l__xeCJK_ccglue_skip=\skip70
-\l__xeCJK_ecglue_skip=\skip71
-\l__xeCJK_punct_kern_skip=\skip72
+\l__xeCJK_ccglue_skip=\skip84
+\l__xeCJK_ecglue_skip=\skip85
+\l__xeCJK_punct_kern_skip=\skip86
 \l__xeCJK_last_penalty_int=\count351
 \l__xeCJK_last_bound_dim=\dimen329
 \l__xeCJK_last_kern_dim=\dimen330
@@ -1041,7 +1058,7 @@ Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 \l__xeCJK_fam_int=\count354
 \g__xeCJK_fam_allocation_int=\count355
 \l__xeCJK_verb_case_int=\count356
-\l__xeCJK_verb_exspace_skip=\skip73
+\l__xeCJK_verb_exspace_skip=\skip87
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
@@ -1072,7 +1089,7 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
 ))
 \ccwd=\dimen353
-\l__ctex_ccglue_skip=\skip74
+\l__ctex_ccglue_skip=\skip88
 )
 \l__ctex_ziju_dim=\dimen354
 
@@ -1174,14 +1191,14 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \c@blx@sectionciteorder@0=\count409
 \blx@entrysetcounter=\count410
 \blx@biblioinstance=\count411
-\labelnumberwidth=\skip75
-\labelalphawidth=\skip76
-\biblabelsep=\skip77
-\bibitemsep=\skip78
-\bibnamesep=\skip79
-\bibinitsep=\skip80
-\bibparsep=\skip81
-\bibhang=\skip82
+\labelnumberwidth=\skip89
+\labelalphawidth=\skip90
+\biblabelsep=\skip91
+\bibitemsep=\skip92
+\bibnamesep=\skip93
+\bibinitsep=\skip94
+\bibparsep=\skip95
+\bibhang=\skip96
 \blx@bcfin=\read3
 \blx@bcfout=\write5
 \blx@langwohyphens=\language87
@@ -1266,20 +1283,20 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedoriglanguage=\count480
 \c@pageref=\count481
 \c@savedpageref=\count482
-\shorthandwidth=\skip83
-\shortjournalwidth=\skip84
-\shortserieswidth=\skip85
-\shorttitlewidth=\skip86
-\shortauthorwidth=\skip87
-\shorteditorwidth=\skip88
-\locallabelnumberwidth=\skip89
-\locallabelalphawidth=\skip90
-\localshorthandwidth=\skip91
-\localshortjournalwidth=\skip92
-\localshortserieswidth=\skip93
-\localshorttitlewidth=\skip94
-\localshortauthorwidth=\skip95
-\localshorteditorwidth=\skip96
+\shorthandwidth=\skip97
+\shortjournalwidth=\skip98
+\shortserieswidth=\skip99
+\shorttitlewidth=\skip100
+\shortauthorwidth=\skip101
+\shorteditorwidth=\skip102
+\locallabelnumberwidth=\skip103
+\locallabelalphawidth=\skip104
+\localshorthandwidth=\skip105
+\localshortjournalwidth=\skip106
+\localshortserieswidth=\skip107
+\localshorttitlewidth=\skip108
+\localshortauthorwidth=\skip109
+\localshorteditorwidth=\skip110
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1370,11 +1387,11 @@ Package biblatex Info: ... and expl3
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Redefining '\cite' on input line 43.
-Package biblatex Info: Redefining '\parencite' on input line 57.
-Package biblatex Info: Redefining '\footcite' on input line 71.
-Package biblatex Info: Redefining '\footcitetext' on input line 78.
-Package biblatex Info: Redefining '\textcite' on input line 95.
+Package biblatex Info: Redefining '\cite' on input line 42.
+Package biblatex Info: Redefining '\parencite' on input line 56.
+Package biblatex Info: Redefining '\footcite' on input line 70.
+Package biblatex Info: Redefining '\footcitetext' on input line 77.
+Package biblatex Info: Redefining '\textcite' on input line 94.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
@@ -1385,12 +1402,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count495
 \calc@Adimen=\dimen355
 \calc@Bdimen=\dimen356
-\calc@Askip=\skip97
-\calc@Bskip=\skip98
+\calc@Askip=\skip111
+\calc@Bskip=\skip112
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count496
-\calc@Cskip=\skip99
+\calc@Cskip=\skip113
 )
 \pgf@logicalpages=\count497
 \pgf@firstshipout=\count498
@@ -1422,8 +1439,8 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \page@free=\dimen361
 \premulticols=\dimen362
 \postmulticols=\dimen363
-\multicolsep=\skip100
-\multicolbaselineskip=\skip101
+\multicolsep=\skip114
+\multicolbaselineskip=\skip115
 \partial@page=\box85
 \last@line=\box86
 \maxbalancingoverflow=\dimen364
@@ -1621,10 +1638,10 @@ Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified
 sep char (CT)
 )
 \c@@stackindex=\count525
-\@boxshift=\skip102
-\stack@tmplength=\skip103
-\temp@stkl=\skip104
-\@stackedboxwidth=\skip105
+\@boxshift=\skip116
+\stack@tmplength=\skip117
+\temp@stkl=\skip118
+\@stackedboxwidth=\skip119
 \@addedbox=\box131
 \@anchorbox=\box132
 \@insetbox=\box133
@@ -1691,7 +1708,7 @@ Package french.ldf Info: No need for active punctuation characters
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 Package french.ldf Info: No list customisation for the beamer class,
-(french.ldf)             reported on input line 116.
+(french.ldf)             reported on input line 115.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1836,51 +1853,51 @@ File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 140.
+(hyperref)                removing `\mathsurround' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 140.
+(hyperref)                removing `\z@' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 140.
+(hyperref)                removing `superscript' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 140.
+(hyperref)                removing `\mathsurround' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 140.
+(hyperref)                removing `\z@' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 140.
+(hyperref)                removing `superscript' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 140.
+(hyperref)                removing `\mathsurround' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 140.
+(hyperref)                removing `\z@' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 140.
+(hyperref)                removing `superscript' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 140.
+(hyperref)                removing `\\' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 140.
+(hyperref)                removing `\new@ifnextchar' on input line 139.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\medskipamount' on input line 140.
+(hyperref)                removing `\medskipamount' on input line 139.
 
 (./YTU.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
@@ -1914,57 +1931,57 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./0_main.aux)
 \openout1 = `0_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 182.
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 182.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 181.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 
-182.
+181.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 181.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-182.
+181.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 181.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-182.
+181.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 182.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 182.
+LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 181.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
-82.
+81.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 182.
+LaTeX Font Info:    ... okay on input line 181.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2000,7 +2017,7 @@ LaTeX Font Info:    ... okay on input line 182.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 182.
+Package hyperref Info: Link coloring ON on input line 181.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -2012,61 +2029,61 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count565
 )
-LaTeX Info: Redefining \ref on input line 182.
-LaTeX Info: Redefining \pageref on input line 182.
-LaTeX Info: Redefining \nameref on input line 182.
+LaTeX Info: Redefining \ref on input line 181.
+LaTeX Info: Redefining \pageref on input line 181.
+LaTeX Info: Redefining \nameref on input line 181.
 
 (./0_main.out) (./0_main.out)
 \@outlinefile=\write6
 \openout6 = `0_main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 182.
+(Font)              `operators' in the math version `normal' on input line 181.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 182.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 181.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 182.
+(Font)              `operators' in the math version `bold' on input line 181.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 182.
+(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 181.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> T1/lmr/m/n on input line 182.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 182.
+(Font)                  T1/futs/m/n --> T1/lmr/m/n on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 182.
+(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 182.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 182.
+(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 182.
+(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 182.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 182.
+(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 182.
+(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 182.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 182.
+(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 181.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 182.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 182.
+(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 181.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 182.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 181.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 182.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> T1/lmr/b/n on input line 182.
+(Font)                  T1/futs/m/n --> T1/lmr/b/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 182.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 182.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 182.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 181.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 182.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 181.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -2097,8 +2114,8 @@ tionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2021/12/12 v2.
 5.8 Chinese translation for theorem name (CTEX)
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 182.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 182.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 181.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 181.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: french babel package is loaded.
 Package caption Info: listings package is loaded.
@@ -2128,8 +2145,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '0_main.bbl' found.
  (./0_main.bbl)
-Package biblatex Info: Reference section=0 on input line 182.
-Package biblatex Info: Reference segment=0 on input line 182.
+Package biblatex Info: Reference section=0 on input line 181.
+Package biblatex Info: Reference segment=0 on input line 181.
 \c@lstlisting=\count566
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
 File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
@@ -2137,62 +2154,62 @@ File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
-LaTeX Info: Redefining \up on input line 182.
+LaTeX Info: Redefining \up on input line 181.
 
 (./0_main.nav)
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 182.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 181.
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 182.
+ 181.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 182.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 182
+(Font)              scaled to size 5.51999pt on input line 181.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 181
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 182
+LaTeX Font Info:    Trying to load font information for U+msb on input line 181
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 182.
+(Font)              scaled to size 5.51999pt on input line 181.
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 18
-2.
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-Overfull \hbox (72.83794pt too wide) in paragraph at lines 182--182
+Overfull \hbox (72.83794pt too wide) in paragraph at lines 181--181
 [][]  
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no ’ ("2019) in font ec-lmss10!
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 199.
+(Font)              scaled to size 9.19998pt on input line 198.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 199.
+(Font)              scaled to size 6.99199pt on input line 198.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 199.
+(Font)              scaled to size 9.19998pt on input line 198.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 199.
+(Font)              scaled to size 6.99199pt on input line 198.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 199.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 198.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7.6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 199.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 198.
 
 Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
 (fontspec)                Script "CJK".
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-99.
+98.
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -2209,18 +2226,18 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 19
-9.
+8.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 199.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 198.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <8> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 199.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 198.
 
 File: pic/Lettres_su_logo.png Graphic file (type bmp)
 <pic/Lettres_su_logo.png>
@@ -2334,23 +2351,23 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ]) (./1-2_evolution_hysterie.tex
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 21.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 30.
 
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 21.
+(Font)              scaled to size 7.35999pt on input line 30.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 21.
+(Font)              scaled to size 6.25598pt on input line 30.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 21.
+(Font)              scaled to size 7.35999pt on input line 30.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 21.
+(Font)              scaled to size 6.25598pt on input line 30.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6.8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Missing } inserted.
 <inserted text> 
                 }
-l.21 \end{frame}
+l.30 \end{frame}
                 
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -2359,7 +2376,28 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.21 \end{frame}
+l.30 \end{frame}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 \end{frame}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.30 \end{frame}
                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2371,16 +2409,38 @@ Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Missing } inserted.
 <inserted text> 
                 }
-l.21 \end{frame}
+l.30 \end{frame}
                 
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.21 \end{frame}
+l.30 \end{frame}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 \end{frame}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.30 \end{frame}
                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2392,29 +2452,7 @@ Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Missing } inserted.
 <inserted text> 
                 }
-l.21 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.21 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-! Missing } inserted.
-<inserted text> 
-                }
-l.21 \end{frame}
+l.30 \end{frame}
                 
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -2423,28 +2461,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
-l.21 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-! Missing } inserted.
-<inserted text> 
-                }
-l.21 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.21 \end{frame}
+l.30 \end{frame}
                 
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -2453,7 +2470,7 @@ the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
 
-Overfull \hbox (22.11092pt too wide) in paragraph at lines 21--21
+Overfull \hbox (23.34674pt too wide) in paragraph at lines 30--30
  [] 
  []
 
@@ -2464,13 +2481,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.21 \end{frame}
+l.30 \end{frame}
                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 21.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2480,7 +2497,17 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [5
 
-]) (./0_main.toc)
+]) (./1-3_napoleon.tex
+File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
+<pic/Jean-Martin_Charcot.jpg>
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \indent {} on input line 32.
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2489,7 +2516,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [6
 
-] (./0_main.toc)
+]) (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2507,40 +2534,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [8
 
-]
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2550,6 +2544,44 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [9
 
 ]
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2558,6 +2590,27 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
  []
 
 [10
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[11
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[12
 
 
 ]
@@ -2578,12 +2631,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43952 strings out of 476191
- 911544 string characters out of 5812072
- 1616453 words of memory out of 5000000
- 63813 multiletter control sequences out of 15000+600000
- 572810 words of font info for 156 fonts, out of 8000000 for 9000
+ 44113 strings out of 476191
+ 915654 string characters out of 5812072
+ 1618227 words of memory out of 5000000
+ 63966 multiletter control sequences out of 15000+600000
+ 575581 words of font info for 157 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,21n,122p,1859b,5411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,21n,122p,1859b,5582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (10 pages).
+Output written on 0_main.pdf (12 pages).

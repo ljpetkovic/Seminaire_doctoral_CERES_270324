@@ -6,12 +6,11 @@
 \usepackage{booktabs}% http://ctan.org/pkg/booktabs
 \newcommand{\tabitem}{~~\llap{\textbullet}~~}
 \usepackage{tabularx}
-
 \setbeamertemplate{blocks}[rounded][shadow=true]
 \let\olditem\item
 \renewcommand{\item}{%
-\olditem\vspace{-4pt}}     
-
+\olditem\vspace{0pt}}     
+\usepackage{ragged2e}
 
 %\usepackage[round]{natbib} % incompatible avec biblatex
 \usepackage{hyperref}
@@ -166,7 +165,7 @@ backref=true
 %     \includegraphics[width=1cm,height=1cm,keepaspectratio]{pic/obtic.jpg}~%
 %     \includegraphics[width=1cm,height=1cm,keepaspectratio]{pic/Lettres_su_logo.png}~%
 % }
-
+\usepackage{enumerate}
 \setbeamertemplate{section in toc}{\hspace*{1em}\inserttocsectionnumber.~\inserttocsection\par}
 \setbeamertemplate{subsection in toc}{\hspace*{2em}\inserttocsectionnumber.\inserttocsubsectionnumber.~\inserttocsubsection\par}
 \renewcommand*{\bibfont}{\scriptsize}
@@ -211,7 +210,7 @@ backref=true
 \input{1-2_evolution_hysterie}
 
 %\subsection{\og Napoléon des névroses \fg{} ou \og Paganini de l'hystérie \fg{}  }
-%\input{1-3_napoleon}
+\input{1-3_napoleon}
 
 
 \section[Objectifs]{Problématique et objectifs}
