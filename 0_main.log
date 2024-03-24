@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 15:42
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 18:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2523,10 +2523,10 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ]) (./2-1_problematique_objectifs.tex
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 40.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 42.
 
 
-Overfull \hbox (0.87253pt too wide) in paragraph at lines 40--40
+Overfull \hbox (0.87253pt too wide) in paragraph at lines 42--42
  [] 
  []
 
@@ -2550,7 +2550,15 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [8
 
-] (./0_main.toc)
+] (./2-2_jonction.tex
+File: pic/dh_histoire-sciences.png Graphic file (type bmp)
+<pic/dh_histoire-sciences.png>
+
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \vbox (8.35779pt too high) detected at line 16
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2559,7 +2567,10 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [9
 
-] (./0_main.toc)
+]) (./2-3_question.tex
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2568,7 +2579,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [10
 
-] (./0_main.toc)
+]) (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2577,52 +2588,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [11
 
-]
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2631,8 +2597,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [12
 
-]
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2641,6 +2606,76 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [13
 
+]
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[14
 
 ]
 Missing character: There is no 4 ("34) in font nullfont!
@@ -2650,7 +2685,29 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[14
+[15
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[16
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[17
 
 
 ]
@@ -2674,12 +2731,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44159 strings out of 476191
- 917338 string characters out of 5812072
- 1622717 words of memory out of 5000000
- 64006 multiletter control sequences out of 15000+600000
+ 44262 strings out of 476191
+ 920352 string characters out of 5812072
+ 1630260 words of memory out of 5000000
+ 64102 multiletter control sequences out of 15000+600000
  581152 words of font info for 160 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (14 pages).
+Output written on 0_main.pdf (17 pages).

@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-03-24T17:47:20.552Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Q-IAxYgWhtcWjIRJc4bX" version="24.0.7" type="device">
+  <diagram name="Page-1" id="lZD87ZvdyWmfelqKNNoe">
+    <mxGraphModel dx="715" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;strokeColor=#3333FF;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D80073;strokeColor=#d6b656;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="90" y="70" width="450" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-2" value="&lt;div&gt;Manuscrits&lt;/div&gt;&lt;div&gt;Katabase&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Gabay &lt;i&gt;et al.&lt;/i&gt;, 2021)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-3" target="5qiXRz38ccx-v7tAVzvs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-3" target="5qiXRz38ccx-v7tAVzvs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-3" target="5qiXRz38ccx-v7tAVzvs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-3" value="Circulations" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;fillColor=#f8cecc;gradientColor=#ea6b66;fontFamily=Open Sans;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-4" value="&lt;div&gt;Images&lt;/div&gt;&lt;div&gt;Visual Contagions&lt;/div&gt;&lt;div&gt;(Joyeux-Prunel &lt;i&gt;et al.&lt;/i&gt;, 2019)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-5" value="&lt;div&gt;Allusions&lt;/div&gt;&lt;div&gt;(Manjavacas &lt;i&gt;et al.&lt;/i&gt;, 2019)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="190" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-6" value="&lt;div&gt;Réemplois&lt;/div&gt;&lt;div&gt;ModERN ERC&lt;/div&gt;&lt;div&gt;(Roe &lt;i&gt;et al.&lt;/i&gt;, 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="400" y="185" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-7" value="&lt;div&gt;Discours médical&lt;/div&gt;&lt;div&gt;(Petkovic &lt;i&gt;et al.&lt;/i&gt;, 2023)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;gradientColor=#3333FF;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="280" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-3" target="5qiXRz38ccx-v7tAVzvs-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="230" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-3" target="5qiXRz38ccx-v7tAVzvs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="210" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-18" value="&lt;font color=&quot;#ffffff&quot;&gt;Humanités numériques&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Open Sans;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="94" y="70" width="146" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Open Sans;" edge="1" parent="1" source="5qiXRz38ccx-v7tAVzvs-20" target="5qiXRz38ccx-v7tAVzvs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-20" value="&lt;div&gt;&lt;div&gt;Broussole &lt;i&gt;et al&lt;/i&gt;., 2012&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Tasca &lt;i&gt;et al&lt;/i&gt;., 2012&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bogousslavsky, 2020&lt;/div&gt;&lt;div&gt;Teive &lt;i&gt;et al.&lt;/i&gt;, 2022&lt;/div&gt;&lt;div&gt;Camargo &lt;i&gt;et al&lt;/i&gt;., 2024&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Open Sans;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="350" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-23" value="Histoire des sciences" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=Open Sans;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="136" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FFFFFF;fontFamily=Open Sans;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="240" y="267" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5qiXRz38ccx-v7tAVzvs-25" value="Impact de Charcot" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontFamily=Open Sans;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="423" y="340" width="117" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

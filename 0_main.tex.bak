@@ -219,10 +219,10 @@ backref=true
 
 %
 %\subsection{Circulation du discours médical au prisme du numérique}
-%\input{2-2_jonction}
+\input{2-2_jonction}
 
 %\subsection{Question de recherche}
-%\input{2-3_question}
+\input{2-3_question}
 
 \section[Méthodologie]{Méthodologie de recherche}
 %\subsection{Fonds Charcot}

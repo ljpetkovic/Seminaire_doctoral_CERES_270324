@@ -1,6 +1,6 @@
 \babel@toc {french}{}\relax 
 \beamer@sectionintoc {1}{Contexte de recherche}{3}{0}{1}
 \beamer@sectionintoc {2}{Problématique et objectifs}{8}{0}{2}
-\beamer@sectionintoc {3}{Méthodologie de recherche}{9}{0}{3}
-\beamer@sectionintoc {4}{Résultats}{10}{0}{4}
-\beamer@sectionintoc {5}{Conclusion et recherches futures}{11}{0}{5}
+\beamer@sectionintoc {3}{Méthodologie de recherche}{11}{0}{3}
+\beamer@sectionintoc {4}{Résultats}{12}{0}{4}
+\beamer@sectionintoc {5}{Conclusion et recherches futures}{13}{0}{5}
