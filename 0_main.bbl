@@ -65,6 +65,35 @@
     \field{year}{1934}
   \endentry
 
+  \entry{bogousslavsky2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BJ}{%
+         family={Bogousslavsky},
+         familyi={B\bibinitperiod},
+         given={Julien},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Taylor & Francis}%
+    }
+    \strng{namehash}{BJ1}
+    \strng{fullhash}{BJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{note}{\url{https://doi.org/10.1080/09540261.2020.1772731}}
+    \field{number}{5-6}
+    \field{pages}{437\bibrangedash 450}
+    \field{title}{The mysteries of hysteria: a historical perspective}
+    \field{volume}{32}
+    \field{journaltitle}{International Review of Psychiatry}
+    \field{year}{2020}
+  \endentry
+
   \entry{camargo2024jean}{article}{}
     \name{author}{7}{}{%
       {{hash=CCHF}{%

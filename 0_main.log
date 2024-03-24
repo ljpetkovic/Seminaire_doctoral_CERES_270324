@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 12:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2521,6 +2521,16 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [6
 
 ]) (./2-1_problematique_objectifs.tex
+
+LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 40.
+
+
+Overfull \hbox (0.87253pt too wide) in paragraph at lines 40--40
+ [] 
+ []
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -2578,6 +2588,9 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 File: beamericonbook.pdf Graphic file (type pdf)
 <use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
@@ -2661,11 +2674,11 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44150 strings out of 476191
- 917107 string characters out of 5812072
- 1621636 words of memory out of 5000000
- 63997 multiletter control sequences out of 15000+600000
- 578357 words of font info for 159 fonts, out of 8000000 for 9000
+ 44159 strings out of 476191
+ 917338 string characters out of 5812072
+ 1622717 words of memory out of 5000000
+ 64006 multiletter control sequences out of 15000+600000
+ 581152 words of font info for 160 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
