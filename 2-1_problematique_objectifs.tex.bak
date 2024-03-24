@@ -1,23 +1,27 @@
-\begin{frame}{Impact de Charcot sur son réseau scientifique et artistique}
-\centering{\textbf{Élèves -- école de la Salpêtrière}}
+\begin{frame}{Impact de Charcot sur sa discipline et au-delà}
+\textbf{Collaborateurs, élèves, savants polymathes}
+\centering
     \begin{table}[!ht]
         \centering
         \begin{tabular}{l r}
-           Sigmund Freud (1856-1939)  & théorie psychanalytique \\
-            Gilles de la Tourette (1857-1932) & syndrôme de Tourette \\
-            Joseph Babinski (1857-1904) & signe de Babinski \\
+           Sigmund \textsc{Freud} (1856-1939)  & théorie psychanalytique \\
+            Gilles \textsc{de la Tourette} (1857-1932) & syndrôme de Tourette \\
+            Joseph \textsc{Babinski} (1857-1904) & signe de Babinski \\
         \end{tabular}
         % \caption{Caption}
         \label{tab:my_label}
     \end{table}
 \medskip
 \textbf{Littéraires} (\cite{koehler2013charcot}) 
+\begin{itemize}
+\item références à Charcot et descriptions de crises hystériques dans la littérature naturaliste française et européenne
+\end{itemize}
 \begin{table}[!ht]
     \centering
     \begin{tabular}{l r}
-        Émile Zola (1840–1902)  & \textit{Lourdes} \\
-        Léon Tolstoï (1828–1910) & \textit{La Sonate à Kreutzer} \\
-        Luigi Capuana (1839–1915) & \textit{La Torture}
+        Émile \textsc{Zola} (1840–1902)  & \textit{Lourdes} \\
+        Léon \textsc{Tolstoï} (1828–1910) & \textit{La Sonate à Kreutzer} \\
+        Luigi \textsc{Capuana} (1839–1915) & \textit{La Torture}
     \end{tabular}
     % \caption{Caption}
     \label{tab:my_label}

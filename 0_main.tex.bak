@@ -170,13 +170,13 @@ backref=true
 \setbeamertemplate{subsection in toc}{\hspace*{2em}\inserttocsectionnumber.\inserttocsubsectionnumber.~\inserttocsubsection\par}
 \renewcommand*{\bibfont}{\scriptsize}
 
-\setbeamertemplate{itemize/enumerate body begin}{\small}
-\setbeamertemplate{itemize/enumerate subbody begin}{\footnotesize}
+
 
 \let\oldfootnotesize\footnotesize
 \renewcommand*{\footnotesize}{\oldfootnotesize\scriptsize}
 
-
+%\setbeamertemplate{itemize/enumerate body begin}{\small}
+\setbeamertemplate{itemize/enumerate subbody begin}{\small}
 
 \begin{document}
 
@@ -212,10 +212,11 @@ backref=true
 %\subsection{\og Napoléon des névroses \fg{} ou \og Paganini de l'hystérie \fg{}  }
 \input{1-3_napoleon}
 
+\input{2-1_problematique_objectifs}
 
 \section[Objectifs]{Problématique et objectifs}
 %\subsection{Impact de Charcot sur son réseau scientifique et artistique}
-%\input{2-1_problematique_objectifs}
+
 %
 %\subsection{Circulation du discours médical au prisme du numérique}
 %\input{2-2_jonction}
@@ -236,6 +237,7 @@ backref=true
 %\subsection{Calcul de pertinence des concepts médicaux}
 %\input{3-4_sota}
 %
+\section[Résultats]{Résultats}
 \section[Conclusion]{Conclusion et recherches futures}
 %\input{5_conclusion}
 

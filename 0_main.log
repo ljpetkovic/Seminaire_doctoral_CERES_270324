@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 MAR 2024 23:27
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 12:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1928,7 +1928,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count563
 \@quotereset=\count564
-(./0_main.aux)
+(./0_main.aux
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
+)
 \openout1 = `0_main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
@@ -2274,19 +2278,19 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 ] (./1-1_rupture.tex
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 26.
+(Font)              scaled to size 10.07397pt on input line 27.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 26.
+(Font)              scaled to size 7.63599pt on input line 27.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 26.
+(Font)              scaled to size 10.07397pt on input line 27.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 26.
+(Font)              scaled to size 7.63599pt on input line 27.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 26.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8.3> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 26.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 26.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
 
 Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 0 ("30) in font nullfont!
@@ -2298,7 +2302,7 @@ File: pic/changement_paradigme.png Graphic file (type bmp)
 ! Undefined control sequence.
 \beamer@doifinframe ...inipage}{6cm} {\normaltext 
                                                   Conception kuhnienne du pr...
-l.26 \end{frame}
+l.27 \end{frame}
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2313,7 +2317,7 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \end{frame}
+l.27 \end{frame}
                 
 Use '\newbibmacro' to define this macro.
 
@@ -2325,17 +2329,17 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \end{frame}
+l.27 \end{frame}
                 
 Use '\newbibmacro' to define this macro.
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 26--26
+Underfull \hbox (badness 3780) in paragraph at lines 27--27
 []\T1/lmss/m/n/10.95 Conception kuh-nienne du pro-grès
  []
 
 
-Overfull \hbox (5.69043pt too wide) in paragraph at lines 26--26
+Overfull \hbox (5.69043pt too wide) in paragraph at lines 27--27
 $[]$$[]$  
  []
 
@@ -2503,7 +2507,7 @@ File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
 
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 32.
+             The label is: \indent {} on input line 35.
 
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no ​ ("200B) in font ec-lmcsc10!
@@ -2516,7 +2520,9 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [6
 
-]) (./0_main.toc)
+]) (./2-1_problematique_objectifs.tex
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2525,7 +2531,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [7
 
-] (./0_main.toc)
+]) (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2543,46 +2549,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [9
 
-]
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2591,8 +2558,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [10
 
-]
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2601,6 +2567,56 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [11
 
+]
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[12
 
 ]
 Missing character: There is no 4 ("34) in font nullfont!
@@ -2610,7 +2626,18 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[12
+[13
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[14
 
 
 ]
@@ -2624,19 +2651,22 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 \openout9 = `0_main.snm'.
 
  (./0_main.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `0_main.out' has not changed.
-(rerunfilecheck)             Checksum: 35F8297BCB7A027C532A4D7A8F7D044A;824.
+(rerunfilecheck)             Checksum: 883A53B9422B83AEFFD2277FF88FBE89;915.
 Package logreq Info: Writing requests to '0_main.run.xml'.
 \openout1 = `0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44113 strings out of 476191
- 915654 string characters out of 5812072
- 1618227 words of memory out of 5000000
- 63966 multiletter control sequences out of 15000+600000
- 575581 words of font info for 157 fonts, out of 8000000 for 9000
+ 44150 strings out of 476191
+ 917107 string characters out of 5812072
+ 1621636 words of memory out of 5000000
+ 63997 multiletter control sequences out of 15000+600000
+ 578357 words of font info for 159 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (12 pages).
+Output written on 0_main.pdf (14 pages).

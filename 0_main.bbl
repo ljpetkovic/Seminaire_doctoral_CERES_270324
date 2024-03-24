@@ -183,6 +183,37 @@
     \field{year}{1863}
   \endentry
 
+  \entry{koehler2013charcot}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KPJ}{%
+         family={Koehler},
+         familyi={K\bibinitperiod},
+         given={P.\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KPJ1}
+    \strng{fullhash}{KPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1016/B978-0-444-63364-4.00023-5
+    \endverb
+    \field{pages}{93\bibrangedash 122}
+    \field{title}{Charcot, La Salpêtrière, and Hysteria as Represented in
+  European Literature}
+    \field{volume}{206}
+    \field{journaltitle}{Progress in Brain Research}
+    \field{year}{2013}
+  \endentry
+
   \entry{koyre1957closed}{book}{}
     \name{author}{1}{}{%
       {{hash=KA}{%
