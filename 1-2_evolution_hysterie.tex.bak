@@ -1,7 +1,7 @@
 \begin{frame}{Évolution du terme \textit{hystérie}}
 Exemple du changement de paradigme : le terme d'\textsc{hystérie}
 \begin{itemize}
- \item gr. \textgreek{ὑστέρα}, lat. \textit{hystera} : \og{}utérus, matrice\fg{} 
+ \item gr. \textgreek{ὑστέρα}, lat. \textit{hystera} : \leftguillemet{} utérus \rightguillemet{}, \leftguillemet{} matrice \rightguillemet{}
 \end{itemize}
 \begin{table}[h!]
 \footnotesize
@@ -16,8 +16,8 @@ Moyen Âge   & \female{}             & \begin{tabular}[c]{@{}l@{}}{\footnotesize
 \\ 	$\rightarrow$ chasses, tortures, exorcismes \citep{tasca2012women}}\end{tabular} \\ \hline
 Renaissance & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\footnotesize localisation dans le cerveau, \textit{sensorium commune} \citep{lepois1618}
 %\footnote{{\footnotesize\cite{lepois1618}}}
-\\\og{}siège commun de la sensibilité\fg{}\footnote{\cite{kant1863}.}, ensemble des perceptions}\end{tabular}   \\ \hline
-Lumières    & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\footnotesize explosion des \og{}esprits animaux\fg{} dans le cerveau\\maladie convulsive \citep{willispathologiae}\footnote{{\footnotesize créateur du terme \textit{neurologia} en 1664.}}}\end{tabular} \\ \hline
+\\\leftguillemet{} siège commun de la sensibilité \rightguillemet{}\footnote{\cite{kant1863}.}, ensemble des perceptions}\end{tabular}   \\ \hline
+Lumières    & \female{}/\male{}           & \begin{tabular}[c]{@{}l@{}}{\footnotesize explosion des \leftguillemet{} esprits animaux \rightguillemet{} dans le cerveau\\maladie convulsive \citep{willispathologiae}\footnote{{\footnotesize créateur du terme \textit{neurologia} en 1664.}}}\end{tabular} \\ \hline
 \rowcolor{LightCyan}
 \textsc{XIX}\ieme{} s. & \female{}/\male{} & \begin{tabular}[c]{@{}l@{}}{\footnotesize dégénérescence héréditaire du système nerveux \citep{charcot1870}
 %\footnote{{\footnotesize\cite{charcot1870}}}

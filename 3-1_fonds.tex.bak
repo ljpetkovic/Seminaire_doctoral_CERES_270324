@@ -1,5 +1,5 @@
 \begin{frame}{Fonds Charcot}
-\begin{block}{SorbonNum\footnote{\tiny{\url{https://patrimoine.sorbonne-universite.fr/}}} -- Bibliothèque de Sorbonne Université (BSU)}
+\begin{block}{SorbonNum\footnote{\textcolor{white}{\tiny{\url{https://patrimoine.sorbonne-universite.fr/}}}} -- Bibliothèque de Sorbonne Université (BSU)}
 201 documents XML OCRisés (sans post-correction)
 \end{block}
 \begin{itemize}

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 18:48
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 MAR 2024 20:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1719,6 +1719,338 @@ File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/merriweather/merriweather.sty
+Package: merriweather 2020/09/12 (Bob Tennent) Supports Merriweather(Sans) font
+s for all LaTeX engines. 
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks51
+\XKV@tempa@toks=\toks52
+)
+\XKV@depth=\count539
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+Requested font "[MerriweatherSans-Light.otf]/OT" at 10.94997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+Requested font "[MerriweatherSans-Light.otf]/OT" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;" at 
+10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+Requested font "[MerriweatherSans-Bold.otf]/OT:script=latn;language=dflt;" at 1
+0.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Bold.otf
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+Requested font "[MerriweatherSans-BoldItalic.otf]/OT:script=latn;language=dflt;
+" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-BoldItalic.otf
+
+Package fontspec Info: Font family 'MerriweatherSans(0)' created for font
+(fontspec)             'MerriweatherSans' with options [Ligatures =
+(fontspec)             TeX,Extension = .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,OldStyle},Scale = .85,UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Bold.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Bold.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-BoldItalic.otf]/OT:script=l
+atn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-BoldItalic.otf]/OT:script=l
+atn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 9.30756pt on input line 262.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 9.30756pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+
+Package fontspec Info: Font family 'MerriweatherSans(1)' created for font
+(fontspec)             'MerriweatherSans' with options [Ligatures =
+(fontspec)             TeX,Extension = .otf,Numbers =
+(fontspec)             {Proportional,OldStyle},Scale = .85,UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Bold.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Bold.otf]/OT:script=latn;la
+nguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-BoldItalic.otf]/OT:script=l
+atn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-BoldItalic.otf]/OT:script=l
+atn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+Requested font "[Merriweather-Light.otf]/OT" at 10.94997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Light.otf
+Requested font "[Merriweather-Light.otf]/OT" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Light.otf
+Requested font "[Merriweather-Light.otf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Light.otf
+Requested font "[Merriweather-LightItalic.otf]/OT:script=latn;language=dflt;" a
+t 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-LightItalic.otf
+
+Package fontspec Info: Font family 'Merriweather(0)' created for font
+(fontspec)             'Merriweather' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic,BoldFont =
+(fontspec)             *-Light,BoldItalicFont = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Light.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Light.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Light.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Light.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[Merriweather-LightItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[Merriweather-LightItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[Merriweather-LightItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[Merriweather-LightItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+
+Package fontspec Info: Font family 'MerriweatherSans(2)' created for font
+(fontspec)             'MerriweatherSans' with options [Ligatures =
+(fontspec)             TeX,Extension = .otf,Numbers =
+(fontspec)             {Proportional,OldStyle},Scale = .85,UprightFont =
+(fontspec)             *-Light,ItalicFont = *-LightItalic,BoldFont =
+(fontspec)             *-Light,BoldItalicFont = *-LightItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-Light.otf]/OT:script=latn;l
+anguage=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-LightItalic.otf]/OT:script=
+latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+Requested font "[Merriweather-Black.otf]/OT" at 10.94997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Black.otf
+Requested font "[Merriweather-Black.otf]/OT" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Black.otf
+Requested font "[Merriweather-Black.otf]/OT:script=latn;language=dflt;" at 10.9
+5003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-Black.otf
+Requested font "[Merriweather-BlackItalic.otf]/OT:script=latn;language=dflt;" a
+t 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+er-BlackItalic.otf
+
+Package fontspec Info: Font family 'Merriweather(1)' created for font
+(fontspec)             'Merriweather' with options [Ligatures = TeX,Extension
+(fontspec)             = .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Black,ItalicFont = *-BlackItalic,BoldFont =
+(fontspec)             *-Black,BoldItalicFont = *-BlackItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Black.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Black.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Black.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[Merriweather-Black.otf]/OT:script=latn;language=dfl
+t;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[Merriweather-BlackItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[Merriweather-BlackItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[Merriweather-BlackItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[Merriweather-BlackItalic.otf]/OT:script=latn;langua
+ge=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+Requested font "[MerriweatherSans-ExtraBold.otf]/OT" at 10.94997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-ExtraBold.otf
+Requested font "[MerriweatherSans-ExtraBold.otf]/OT" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-ExtraBold.otf
+Requested font "[MerriweatherSans-ExtraBold.otf]/OT:script=latn;language=dflt;"
+ at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-ExtraBold.otf
+Requested font "[MerriweatherSans-ExtraBoldItalic.otf]/OT:script=latn;language=
+dflt;" at 10.95003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-ExtraBoldItalic.otf
+
+Package fontspec Info: Font family 'MerriweatherSans(3)' created for font
+(fontspec)             'MerriweatherSans' with options [Ligatures =
+(fontspec)             TeX,Extension = .otf,Numbers =
+(fontspec)             {Proportional,OldStyle},Scale = .85,UprightFont =
+(fontspec)             *-ExtraBold,ItalicFont = *-ExtraBoldItalic,BoldFont =
+(fontspec)             *-ExtraBold,BoldItalicFont = *-ExtraBoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBold.otf]/OT:script=la
+tn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBold.otf]/OT:script=la
+tn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBold.otf]/OT:script=la
+tn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBold.otf]/OT:script=la
+tn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBoldItalic.otf]/OT:scr
+ipt=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBoldItalic.otf]/OT:scr
+ipt=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBoldItalic.otf]/OT:scr
+ipt=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[.85]"[MerriweatherSans-ExtraBoldItalic.otf]/OT:scr
+ipt=latn;language=dflt;+pnum;+onum;+smcp;mapping=tex-text;"
+
+)
+Requested font "Gentium Plus" at 10.94997pt
+ -> ^^�S^^^^^^4[
+Requested font "Gentium Plus/OT" at 10.95003pt
+ -> ^^�^^^^W^^�^^E
+Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
+ -> ^^A^^^^W^^�^^E
+Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
+ -> ^^^^^^^W^^�^^E
+Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
+ -> ^^^^^^^W^^�^^E
+Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
+ -> \^^^^W^^�^^E
+Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
+ -> |^^^^W^^�^^E
+Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
+ -> ^^�^^^^W^^�^^E
+Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
+ -> ^^^^^^W^^�^^E
+Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
+ -> ^^&^^�^^^^^^4[
+Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
+ -> ^^+^^^^W^^�^^E
+Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
+ -> m^^T^^	^^^^4[
+Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
+ -> ^^-^^^^W^^�^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -1756,18 +2088,7 @@ Package: pstricks 2021/08/23 v0.71 LaTeX wrapper for `PSTricks' (RN,HV)
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-
-(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
-
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks51
-\XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count539
-File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)))
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.06, 2020/11/20 (hv)
@@ -1853,75 +2174,55 @@ File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 139.
+(hyperref)                removing `\mathsurround' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 139.
+(hyperref)                removing `\z@' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 139.
+(hyperref)                removing `superscript' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 139.
+(hyperref)                removing `\mathsurround' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 139.
+(hyperref)                removing `\z@' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 139.
+(hyperref)                removing `superscript' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 139.
+(hyperref)                removing `\mathsurround' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 139.
+(hyperref)                removing `\z@' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 139.
+(hyperref)                removing `superscript' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 139.
+(hyperref)                removing `\\' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 139.
+(hyperref)                removing `\new@ifnextchar' on input line 141.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\medskipamount' on input line 139.
+(hyperref)                removing `\medskipamount' on input line 141.
 
 (./YTU.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty))
-
-Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
-(fontspec)                Script "CJK".
-
-
-Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
-(fontspec)             'FandolHei-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf},BoldFont={FandolHei-Bold}
-].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolHei-Regular.otf]/OT:language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"[FandolHei-Bold.otf]/OT:language=dflt;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
@@ -1932,60 +2233,63 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 LaTeX Warning: Label `tab:my_label' multiply defined.
 
+
+LaTeX Warning: Label `tab:my_label' multiply defined.
+
 )
 \openout1 = `0_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 181.
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 181.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 192.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 192.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 
-181.
+192.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 192.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-181.
+192.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 192.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-181.
+192.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 181.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 181.
+LaTeX Font Info:    ... okay on input line 192.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 192.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
-81.
+92.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 181.
+LaTeX Font Info:    ... okay on input line 192.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2021,7 +2325,7 @@ LaTeX Font Info:    ... okay on input line 181.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 181.
+Package hyperref Info: Link coloring ON on input line 192.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -2033,61 +2337,72 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count565
 )
-LaTeX Info: Redefining \ref on input line 181.
-LaTeX Info: Redefining \pageref on input line 181.
-LaTeX Info: Redefining \nameref on input line 181.
+LaTeX Info: Redefining \ref on input line 192.
+LaTeX Info: Redefining \pageref on input line 192.
+LaTeX Info: Redefining \nameref on input line 192.
 
 (./0_main.out) (./0_main.out)
 \@outlinefile=\write6
 \openout6 = `0_main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 181.
+(Font)              `operators' in the math version `normal' on input line 192.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 181.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 192.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 181.
+(Font)              `operators' in the math version `bold' on input line 192.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 181.
+(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 192.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> T1/lmr/m/n on input line 181.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 181.
+(Font)                  T1/futs/m/n --> TU/lmr/m/n on input line 192.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 181.
+(Font)                  T1/futs/bx/n --> TU/MerriweatherSans(0)/b/n on input li
+ne 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/futs/bx/n --> T1/lmss/b/n on input line 181.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 181.
+(Font)                  T1/futs/bx/n --> TU/MerriweatherSans(0)/b/n on input li
+ne 192.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/lmss/m/n on input line 181.
+(Font)                  OT1/cmss/m/n --> TU/MerriweatherSans(0)/m/n on input li
+ne 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/lmss/m/n on input line 181.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 181.
+(Font)                  OT1/cmss/bx/n --> TU/MerriweatherSans(0)/m/n on input l
+ine 192.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 181.
+(Font)                  T1/futs/m/it --> TU/MerriweatherSans(0)/m/it on input l
+ine 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/futs/m/it --> T1/lmss/m/it on input line 181.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 181.
+(Font)                  T1/futs/m/it --> TU/MerriweatherSans(0)/m/it on input l
+ine 192.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 181.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/lmtt/m/n on input line 181.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 192.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 181.
+(Font)                  TU/MerriweatherSans(0)/m/n --> TU/MerriweatherSans(0)/b
+/n on input line 192.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 181.
+(Font)                  TU/MerriweatherSans(0)/m/it --> TU/MerriweatherSans(0)/
+b/it on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> T1/lmr/b/n on input line 181.
+(Font)                  T1/futs/m/n --> TU/lmr/b/n on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 181.
+(Font)                  TU/MerriweatherSans(0)/b/n --> TU/MerriweatherSans(0)/b
+/n on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 181.
+(Font)                  TU/MerriweatherSans(0)/m/n --> TU/MerriweatherSans(0)/b
+/n on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 181.
+(Font)                  TU/MerriweatherSans(0)/m/it --> TU/MerriweatherSans(0)/
+b/it on input line 192.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 181.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 192.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -2118,8 +2433,8 @@ tionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2021/12/12 v2.
 5.8 Chinese translation for theorem name (CTEX)
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 181.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 181.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 192.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 192.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: french babel package is loaded.
 Package caption Info: listings package is loaded.
@@ -2149,8 +2464,8 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '0_main.bbl' found.
  (./0_main.bbl)
-Package biblatex Info: Reference section=0 on input line 181.
-Package biblatex Info: Reference segment=0 on input line 181.
+Package biblatex Info: Reference section=0 on input line 192.
+Package biblatex Info: Reference segment=0 on input line 192.
 \c@lstlisting=\count566
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
 File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
@@ -2158,65 +2473,179 @@ File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
-LaTeX Info: Redefining \up on input line 181.
+LaTeX Info: Redefining \up on input line 192.
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 5.10004pt on input line 192.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 5.10004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
 
 (./0_main.nav)
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 181.
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 5.10004pt on input line 192.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 5.10004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+Requested font "cmss8" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 181.
+ 192.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
+Requested font "futmii" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 181.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 181
+(Font)              scaled to size 5.51999pt on input line 192.
+Requested font "fourier-mex" at 5.51999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+LaTeX Font Info:    Trying to load font information for U+msa on input line 192
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 181
+Requested font "msam7" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+LaTeX Font Info:    Trying to load font information for U+msb on input line 192
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Requested font "msbm7" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "futmi" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 181.
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 18
-1.
+(Font)              scaled to size 5.51999pt on input line 192.
+Requested font "fourier-bb" at 5.51999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy6" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 19
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-Overfull \hbox (72.83794pt too wide) in paragraph at lines 181--181
+Requested font "wasy6" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy6.tfm
+
+Overfull \hbox (72.83794pt too wide) in paragraph at lines 192--192
 [][]  
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no ’ ("2019) in font ec-lmss10!
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 12.24008pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 12.24008pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 11.05008pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 11.05008pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 8.50006pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 8.50006pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/b/n' will be
+(Font)              scaled to size 8.50006pt on input line 209.
+Requested font "[MerriweatherSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;
++onum;mapping=tex-text;" at 8.50006pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Bold.otf
+Requested font "cmss10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+Requested font "cmss8" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "futmii" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 198.
+(Font)              scaled to size 9.19998pt on input line 209.
+Requested font "fourier-mex" at 9.19998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 198.
+(Font)              scaled to size 6.99199pt on input line 209.
+Requested font "fourier-mex" at 6.99199pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+Requested font "msam10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "futmi" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 198.
+(Font)              scaled to size 9.19998pt on input line 209.
+Requested font "fourier-bb" at 9.19998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 198.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 198.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7.6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 198.
+(Font)              scaled to size 6.99199pt on input line 209.
+Requested font "fourier-bb" at 6.99199pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+Requested font "lasy7" at 7.6pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
+Requested font "wasy10" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
+Requested font "wasy8" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy8.tfm
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 6.46004pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 6.46004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 8.50006pt on input line 209.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 8.50006pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 6.46004pt on input line 209.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 6.46004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+Requested font "[FandolFang-Regular.otf]/OT" at 9.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
+Requested font "[FandolFang-Regular.otf]/OT" at 10.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
 
 Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
 (fontspec)                Script "CJK".
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-98.
-(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
+Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 10.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
+Requested font "[lmmono10-regular]:" at 10.95pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
 
 Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 (fontspec)             'FandolFang-Regular' with options
@@ -2229,26 +2658,38 @@ Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
 (fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 19
-8.
-
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <6> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 198.
-
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <8> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 198.
-
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 6.80005pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 6.80005pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/sc' will be
+(Font)              scaled to size 5.10004pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;+smcp;mapping=tex-text;" at 5.10004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/sc' will be
+(Font)              scaled to size 6.80005pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;+smcp;mapping=tex-text;" at 6.80005pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
 File: pic/Lettres_su_logo.png Graphic file (type bmp)
 <pic/Lettres_su_logo.png>
 File: pic/cellf.png Graphic file (type bmp)
 <pic/cellf.png>
 File: pic/obtic.jpg Graphic file (type bmp)
 <pic/obtic.jpg>
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 3.40002pt on input line 209.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 3.40002pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2258,6 +2699,13 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [1
 
 ] (./0_main.toc)
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 10.20007pt on input line 214.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 10.20007pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2277,26 +2725,85 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [3
 
 ] (./1-1_rupture.tex
+Requested font "cmss10" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+Requested font "cmss8" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "futmii" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 10.07397pt on input line 27.
+Requested font "fourier-mex" at 10.07397pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 7.63599pt on input line 27.
+Requested font "fourier-mex" at 7.63599pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+Requested font "msam10" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "futmi" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 10.07397pt on input line 27.
+Requested font "fourier-bb" at 10.07397pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.63599pt on input line 27.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8.3> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 27.
+Requested font "fourier-bb" at 7.63599pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy10" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+Requested font "lasy8" at 8.3pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+Requested font "wasy10" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 7.05504pt on input line 27.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 7.05504pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 9.30756pt on input line 27.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 9.30756pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 7.05504pt on input line 27.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 7.05504pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 7.65005pt on input line 27.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 7.65005pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 6.80005pt on input line 27.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 6.80005pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
 
 Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 0 ("30) in font nullfont!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 File: pic/changement_paradigme.png Graphic file (type bmp)
 <pic/changement_paradigme.png>
 ! Undefined control sequence.
@@ -2321,7 +2828,12 @@ l.27 \end{frame}
                 
 Use '\newbibmacro' to define this macro.
 
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/sc' will be
+(Font)              scaled to size 8.50006pt on input line 27.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;+smcp;mapping=tex-text;" at 8.50006pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
 
 ! Package biblatex Error: Bibliography macro 'cite:post' undefined.
 
@@ -2334,8 +2846,8 @@ l.27 \end{frame}
 Use '\newbibmacro' to define this macro.
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 27--27
-[]\T1/lmss/m/n/10.95 Conception kuh-nienne du pro-grès
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]\TU/MerriweatherSans(0)/m/n/10.95 Conception kuhnienne du progrès
  []
 
 
@@ -2353,21 +2865,75 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [4
 
 ]) (./1-2_evolution_hysterie.tex
-
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 30.
-
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/sc' will be
+(Font)              scaled to size 9.30756pt on input line 30.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;+smcp;mapping=tex-text;" at 9.30756pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95pt
+ -> ^^I^^�^^A^^^^4[
+Requested font "cmss8" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "cmss8" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "futmii" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 30.
+Requested font "fourier-mex" at 7.35999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
 (Font)              scaled to size 6.25598pt on input line 30.
+Requested font "fourier-mex" at 6.25598pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+Requested font "msam10" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "futmi" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 7.35999pt on input line 30.
+Requested font "fourier-bb" at 7.35999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
 (Font)              scaled to size 6.25598pt on input line 30.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6.8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
+Requested font "fourier-bb" at 6.25598pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy8" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+Requested font "lasy6" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+Requested font "wasy7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 5.78003pt on input line 30.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 5.78003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 5.78003pt on input line 30.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 5.78003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+Requested font "[lmroman8-regular]:mapping=tex-text;" at 8.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmroman8-regular.otf
+
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -2397,29 +2963,6 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-! Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.30 \end{frame}
-                
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-! Missing } inserted.
-<inserted text> 
-                }
-l.30 \end{frame}
-                
-I've put in what seems to be necessary to fix
-the current column of the current alignment.
-Try to go on, since this might almost work.
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
@@ -2440,7 +2983,6 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Extra }, or forgotten \endgroup.
 <recently read> }
                  
@@ -2452,7 +2994,6 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 ! Missing } inserted.
 <inserted text> 
                 }
@@ -2473,10 +3014,31 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 4.41998pt on input line 30.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 4.41998pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+! Missing } inserted.
+<inserted text> 
+                }
+l.30 \end{frame}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
 
-Overfull \hbox (23.34674pt too wide) in paragraph at lines 30--30
- [] 
- []
+! Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.30 \end{frame}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
 
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
@@ -2490,8 +3052,12 @@ l.30 \end{frame}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 10.20007pt on input line 30.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 10.20007pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2504,13 +3070,17 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ]) (./1-3_napoleon.tex
 File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
 <pic/Jean-Martin_Charcot.jpg>
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 6.04984pt on input line 35.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 6.04984pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
 
 
 LaTeX Warning: The counter will not be printed.
              The label is: \indent {} on input line 35.
 
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2521,17 +3091,16 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [6
 
 ]) (./2-1_problematique_objectifs.tex
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/b/n' will be
+(Font)              scaled to size 9.30756pt on input line 42.
+Requested font "[MerriweatherSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;
++onum;mapping=tex-text;" at 9.30756pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Bold.otf
+Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolSong-Regul
+ar.otf
 
-LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 42.
-
-
-Overfull \hbox (0.87253pt too wide) in paragraph at lines 42--42
- [] 
- []
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2556,7 +3125,7 @@ File: pic/dh_histoire-sciences.png Graphic file (type bmp)
 
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (8.35779pt too high) detected at line 16
+Overfull \vbox (2.26457pt too high) detected at line 18
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
@@ -2588,7 +3157,11 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [11
 
-] (./0_main.toc)
+] (./3-2_intertextualite.tex
+File: pic/charcot_intertextualite.png Graphic file (type bmp)
+<pic/charcot_intertextualite.png>
+
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2597,7 +3170,101 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [12
 
-] (./0_main.toc)
+]) (./3-1_fonds.tex
+Requested font "cmss12" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+Requested font "cmss9" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss9.tfm
+Requested font "cmss8" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "futmii" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 25.
+Requested font "fourier-mex" at 11.03998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 25.
+Requested font "fourier-mex" at 8.27998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 25.
+Requested font "fourier-mex" at 6.43999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+Requested font "msam10" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "futmi" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 25.
+Requested font "fourier-bb" at 11.03998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 25.
+Requested font "fourier-bb" at 8.27998pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 25.
+Requested font "fourier-bb" at 6.43999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy10" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
+Requested font "lasy9" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy9.tfm
+Requested font "lasy7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
+Requested font "wasy10" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
+Requested font "wasy9" at 9.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy9.tfm
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/n' will be
+(Font)              scaled to size 5.95004pt on input line 25.
+Requested font "[MerriweatherSans-Light.otf]/OT:script=latn;language=dflt;+pnum
+;+onum;mapping=tex-text;" at 5.95004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-Light.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 7.65005pt on input line 25.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 7.65005pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+LaTeX Font Info:    Font shape `TU/MerriweatherSans(0)/m/it' will be
+(Font)              scaled to size 5.95004pt on input line 25.
+Requested font "[MerriweatherSans-LightItalic.otf]/OT:script=latn;language=dflt
+;+pnum;+onum;mapping=tex-text;" at 5.95004pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/sorkin/merriweather/Merriweath
+erSans-LightItalic.otf
+Requested font "[lmmono8-regular]:" at 6.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf
+
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 0 ("30) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2606,69 +3273,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [13
 
-]
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-File: beamericonbook.pdf Graphic file (type pdf)
-<use beamericonbook.pdf>
-Missing character: There is no ​ ("200B) in font ec-lmcsc10!
-Missing character: There is no 4 ("34) in font nullfont!
+]) (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2677,8 +3282,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [14
 
-]
-Missing character: There is no 4 ("34) in font nullfont!
+] (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2687,8 +3291,52 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [15
 
-
 ]
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+Requested font "[lmmono8-regular]:" at 8.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+File: beamericonarticle.pdf Graphic file (type pdf)
+<use beamericonarticle.pdf>
+File: beamericonbook.pdf Graphic file (type pdf)
+<use beamericonbook.pdf>
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -2697,7 +3345,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
  []
 
 [16
-
 
 ]
 Missing character: There is no 4 ("34) in font nullfont!
@@ -2708,6 +3355,28 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
  []
 
 [17
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[18
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[19
 
 
 ]
@@ -2731,12 +3400,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44262 strings out of 476191
- 920352 string characters out of 5812072
- 1630260 words of memory out of 5000000
- 64102 multiletter control sequences out of 15000+600000
- 581152 words of font info for 160 fonts, out of 8000000 for 9000
+ 44636 strings out of 476191
+ 935557 string characters out of 5812072
+ 1660322 words of memory out of 5000000
+ 64411 multiletter control sequences out of 15000+600000
+ 514224 words of font info for 208 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5582s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (17 pages).
+Output written on 0_main.pdf (19 pages).

@@ -582,6 +582,31 @@
     \field{year}{2015}
   \endentry
 
+  \entry{oseki2007}{book}{}
+    \name{author}{1}{}{%
+      {{hash=ODI}{%
+         family={Oseki-Dépré},
+         familyi={O\bibinithyphendelim D\bibinitperiod},
+         given={I.},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Paris : Honoré Champion}%
+    }
+    \strng{namehash}{ODI1}
+    \strng{fullhash}{ODI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2007}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+  \field{note}{\url{https://www.honorechampion.com/fr/editions-honore-champion/6831-book-08531497-9782745314970.html}}
+    \field{title}{De Walter Benjamin à nos jours : essais de traductologie}
+    \field{year}{2007}
+  \endentry
+
   \entry{tasca2012women}{article}{}
     \name{author}{4}{}{%
       {{hash=TC}{%

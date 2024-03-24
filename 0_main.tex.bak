@@ -115,6 +115,8 @@ backref=true
 \usepackage[LGR,T1]{fontenc}
 \usepackage{fontspec}
 
+\usepackage[sfdefault,light,scaled=.85]{merriweather} %% Option 'black' gives heavier bold face 
+
 % Define a command for text in Greek. Replace 'Gentium Plus' with a font of your choice if necessary.
 \newfontfamily\greekfont{Gentium Plus}
 \newcommand{\textgreek}[1]{{\greekfont #1}}
@@ -138,7 +140,7 @@ backref=true
 
 \author[Lj. PETKOVIC \textit{et al.}]{\small \textbf{Ljudmila PETKOVIC}\textsuperscript{1,2,3}, Motasem ALRAHABI\textsuperscript{1,3}, Glenn ROE\textsuperscript{1,2,3}\\\medskip{\texttt{prenom.nom@sorbonne-universite.fr}}}
 \title[Dans les petits papiers de Charcot$\dots$]{\fontsize{13pt}{13pt}\selectfont Dans les petits papiers de Charcot :}
-\subtitle{de l’expérimentation aux prémisses de la neurologie moderne}
+\subtitle{de l'expérimentation aux prémisses de la neurologie moderne}
 \institute [JE \og{}Humanités numériques\fg{}] {\tiny \textsuperscript{1} Sorbonne Université, Faculté des Lettres, \textsc{UFR} Littératures françaises et comparée\\\textsuperscript{2} Centre d'étude de la langue et des littératures françaises (\textsc{CELLF}), \textsc{UMR 8599}\\\textsuperscript{3} Observatoire des textes, des idées et des corpus (\textsc{ObTIC})}
 \date[\today]{\scriptsize  Séminaire doctoral du \textsc{CERES}\\Maison de la Recherche, Sorbonne Université\\Paris, \today}
 \usepackage{YTU}
@@ -177,6 +179,15 @@ backref=true
 
 %\setbeamertemplate{itemize/enumerate body begin}{\small}
 \setbeamertemplate{itemize/enumerate subbody begin}{\small}
+
+\newcommand{\leftquote}{{\fontfamily{lmr}\selectfont\textquotedblleft}}
+\newcommand{\rightquote}{{\fontfamily{lmr}\selectfont\textquotedblright}}
+\newcommand{\leftguillemet}{{\fontfamily{lmr}\selectfont\guillemotleft}}
+\newcommand{\rightguillemet}{{\fontfamily{lmr}\selectfont\guillemotright}}
+
+
+
+
 
 \begin{document}
 
@@ -226,10 +237,10 @@ backref=true
 
 \section[Méthodologie]{Méthodologie de recherche}
 %\subsection{Fonds Charcot}
-%\input{3-1_fonds}
-
 %\subsection{Mesurer le degré d'intertextualité}
-%\input{3-2_intertextualite}
+\input{3-2_intertextualite}
+\input{3-1_fonds}
+
 
 %\subsection{Premières analyses du corpus Charcot}
 %\input{3-3_premieres_analyses}
