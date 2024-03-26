@@ -17,7 +17,7 @@
 \hypersetup{
     colorlinks=true,
     linkcolor=.,
-    filecolor=magenta,      
+    filecolor=deepblue,      
     urlcolor=deepblue,
     pdftitle={Overleaf Example},
     pdfpagemode=FullScreen,
@@ -31,12 +31,24 @@
 \usepackage[T1]{fontenc}
 \usepackage{ctex}
 \UseRawInputEncoding
-\usepackage[backend=bibtex,
-style=authoryear,
-natbib=true,
-sorting=nty,
-backref=true
-]{biblatex}
+\usepackage[backend=bibtex, style=authoryear, natbib=true, sorting=nty, backref=true]{biblatex}
+\renewcommand*{\bibfont}{\footnotesize}
+
+% Remove quotation marks from titles
+\DeclareFieldFormat[article,incollection,inproceedings,conference]{title}{#1} 
+\addbibresource{ref.bib}
+
+%\usepackage[backend=bibtex,
+%style=authoryear,
+%natbib=true,
+%sorting=nty,
+%backref=true
+%]{biblatex}
+\let\oldnocite\nocite
+\makeatletter
+\renewcommand*{\nocite}[1]{\oldnocite{#1}\Hy@backout{#1}}
+\makeatother
+
 \renewcommand*{\bibfont}{\footnotesize}
 
 \DeclareCiteCommand{\cite}
@@ -115,7 +127,14 @@ backref=true
 \usepackage[LGR,T1]{fontenc}
 \usepackage{fontspec}
 
-\usepackage[sfdefault,light,scaled=.85]{merriweather} %% Option 'black' gives heavier bold face 
+%\usepackage[sfdefault,light,scaled=.85]{merriweather} %% Option 'black' gives heavier bold face 
+
+
+\usepackage[sfdefault]{AlegreyaSans} %% Option 'black' gives heavier bold face
+%% The 'sfdefault' option to make the base font sans serif
+\renewcommand*\oldstylenums[1]{{\AlegreyaSansOsF #1}}
+
+
 
 % Define a command for text in Greek. Replace 'Gentium Plus' with a font of your choice if necessary.
 \newfontfamily\greekfont{Gentium Plus}
@@ -138,11 +157,11 @@ backref=true
 % Enable only in Xelatex
  \usepackage{pstricks}
 
-\author[Lj. PETKOVIC \textit{et al.}]{\small \textbf{Ljudmila PETKOVIC}\textsuperscript{1,2,3}, Motasem ALRAHABI\textsuperscript{1,3}, Glenn ROE\textsuperscript{1,2,3}\\\medskip{\texttt{prenom.nom@sorbonne-universite.fr}}}
-\title[Dans les petits papiers de Charcot$\dots$]{\fontsize{13pt}{13pt}\selectfont Dans les petits papiers de Charcot :}
+\author[Ljudmila PETKOVIC \textit{et al.}]{\small \textbf{Ljudmila PETKOVIC}\textsuperscript{1,2,3}, Motasem ALRAHABI\textsuperscript{1,3}, Glenn ROE\textsuperscript{1,2,3}\\\medskip{\footnotesize\texttt{prenom.nom@sorbonne-universite.fr}}}
+\title[Dans les petits papiers de Charcot : de l'expérimentation aux prémisses$\dots$]{\fontsize{13pt}{13pt}\selectfont Dans les petits papiers de Charcot :}
 \subtitle{de l'expérimentation aux prémisses de la neurologie moderne}
 \institute [JE \og{}Humanités numériques\fg{}] {\tiny \textsuperscript{1} Sorbonne Université, Faculté des Lettres, \textsc{UFR} Littératures françaises et comparée\\\textsuperscript{2} Centre d'étude de la langue et des littératures françaises (\textsc{CELLF}), \textsc{UMR 8599}\\\textsuperscript{3} Observatoire des textes, des idées et des corpus (\textsc{ObTIC})}
-\date[\today]{\scriptsize  Séminaire doctoral du \textsc{CERES}\\Maison de la Recherche, Sorbonne Université\\Paris, \today}
+\date[\today]{\scriptsize  Séminaire doctoral du \textsc{CERES}\\Maison de la Recherche, Sorbonne Université\\Paris, le 27 mars 2024}
 \usepackage{YTU}
 
 % defs
@@ -152,6 +171,7 @@ backref=true
 \definecolor{deepred}{rgb}{0.6,0,0}
 \definecolor{deepgreen}{rgb}{0,0.5,0}
 \definecolor{halfgray}{gray}{0.55}
+\definecolor{warmblack}{rgb}{0.0, 0.26, 0.26}
 
 \lstset{
     basicstyle=\ttfamily\small,
@@ -179,11 +199,14 @@ backref=true
 
 %\setbeamertemplate{itemize/enumerate body begin}{\small}
 \setbeamertemplate{itemize/enumerate subbody begin}{\small}
+%
+%\newcommand{\leftquote}{{\fontfamily{lmr}\selectfont\textquotedblleft}}
+%\newcommand{\rightquote}{{\fontfamily{lmr}\selectfont\textquotedblright}}
+%\newcommand{\leftguillemet}{{\fontfamily{lmr}\selectfont\guillemotleft}}
+%\newcommand{\rightguillemet}{{\fontfamily{lmr}\selectfont\guillemotright}}
 
-\newcommand{\leftquote}{{\fontfamily{lmr}\selectfont\textquotedblleft}}
-\newcommand{\rightquote}{{\fontfamily{lmr}\selectfont\textquotedblright}}
-\newcommand{\leftguillemet}{{\fontfamily{lmr}\selectfont\guillemotleft}}
-\newcommand{\rightguillemet}{{\fontfamily{lmr}\selectfont\guillemotright}}
+
+
 
 
 
@@ -238,19 +261,22 @@ backref=true
 \section[Méthodologie]{Méthodologie de recherche}
 %\subsection{Fonds Charcot}
 %\subsection{Mesurer le degré d'intertextualité}
-\input{3-2_intertextualite}
-\input{3-1_fonds}
-
+\input{3-1_intertextualite}
+\input{3-2_fonds}
 
 %\subsection{Premières analyses du corpus Charcot}
-%\input{3-3_premieres_analyses}
-
+\input{3-3_premieres_analyses}
+\input{4_keybert}
 %\subsection{Calcul de pertinence des concepts médicaux}
-%\input{3-4_sota}
+
 %
+
+
 \section[Résultats]{Résultats}
+\input{4_resultats}
+
 \section[Conclusion]{Conclusion et recherches futures}
-%\input{5_conclusion}
+\input{5_conclusion}
 
 %\section{Conclusion et perspectives}
 %\input{5_conclusion}

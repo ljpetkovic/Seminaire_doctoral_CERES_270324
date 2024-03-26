@@ -1,12 +1,11 @@
 @article{joyeux2019visual,
-  title={Visual Contagions, the Art Historian, and the Digital Strategies to Work on Them},
+  title={\href{https://docs.lib.purdue.edu/artlas/vol8/iss3/8/}{Visual Contagions, the Art Historian, and the Digital Strategies to Work on Them}},
   author={Joyeux-Prunel, B.},
   journal={Artl@s Bulletin},
   volume={8},
   number={3},
   pages={8},
-  year={2019},
-  url={https://docs.lib.purdue.edu/artlas/vol8/iss3/8/}
+  year={2019}
 }
 
 @book{ellenberger1970discovery,
@@ -29,7 +28,7 @@
 }
 
 @inproceedings{manjavacas2019,
-    title = "On the Feasibility of Automated Detection of Allusive Text Reuse",
+    title = "\href{https://doi.org/10.18653/v1/W19-2514}{On the Feasibility of Automated Detection of Allusive Text Reuse}",
     author = "Manjavacas, E. and
       Long, B. and
       Kestemont, M.",
@@ -37,55 +36,49 @@
     year = "2019",
     address = "Minneapolis, USA",
     publisher = "Association for Computational Linguistics",
-    doi = "10.18653/v1/W19-2514",
     pages = "104--114"
 }
 
 @book{marmion2015freud,
-  title={Freud et la psychanalyse},
+  title={\href{https://www.cairn.info/freud-et-la-psychanalyse--9782361063542-page-22.htm}{Freud et la psychanalyse}},
   author={Marmion, J.-F.},
   year={2015},
-  publisher={Sciences Humaines},
-  url={https://www.cairn.info/freud-et-la-psychanalyse--9782361063542-page-22.htm}
+  publisher={Sciences Humaines}
 }
 
 @article{koehler2013charcot,
-  title={Charcot, La Salpêtrière, and Hysteria as Represented in European Literature},
+  title={\href{https://doi.org/10.1016/B978-0-444-63364-4.00023-5}{Charcot, La Salpêtrière, and Hysteria as Represented in European Literature}},
   author={Koehler, P. J.},
   journal={Progress in Brain Research},
   volume={206},
   pages={93--122},
   year={2013},
-  publisher={Elsevier},
-  doi={10.1016/B978-0-444-63364-4.00023-5}
+  publisher={Elsevier}
 }
 
 @inproceedings{gabay2021katabase,
-  title={Katabase: {\`A} la recherche des manuscrits vendus},
+  title={\href{https://hal.science/hal-03066108/document}{Katabase: {\`A} la recherche des manuscrits vendus}},
   author={Gabay, S. and Petkovic, Lj. and Bartz, A. and Levenson, M. G. and Du Noyer, L. R.},
   booktitle={Humanistica 2021},
-  year={2021},
-  url={https://hal.science/hal-03066108/document}
+  year={2021}
 }
 
-@incollection{bogousslavsky,
+@incollection{bogousslavsky2010,
     author = {Bogousslavsky, J.},
     isbn = {978-3-8055-9556-8},
-    title = "{Hysteria after Charcot: Back to the Future}",
+    title = "{\href{https://doi.org/10.1159/000321783}{Hysteria after Charcot: Back to the Future}}",
     booktitle = "{Following Charcot: A Forgotten History of Neurology and Psychiatry}",
     publisher = {S.Karger AG},
-    year = {2010},
-    doi = {10.1159/000321783}
+    year = {2010}
 }
 
 @article{camargo,
 author = {Camargo, C. H. and Teixeira Marques, P. and Oliveira, L. and Germiniani, F. and de Paola, L. and Teive, H.},
 year = {2018},
 pages = {40-46},
-title = {Jean-Martin Charcot's influence on Career of Sigmund Freud, and the Influence of this Meeting for the Brazilian Medicine},
+title = {\href{https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pdf}{Jean-Martin Charcot's influence on Career of Sigmund Freud, and the Influence of this Meeting for the Brazilian Medicine}},
 volume = {54},
-journal = {Revista Brasileira de Neurologia},
-url = {https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pdf}
+journal = {Revista Brasileira de Neurologia}
 }
 
 @misc{devlin2019bert,
@@ -98,12 +91,11 @@ url = {https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pd
 }
 
 @book{charcot1890oeuvres,
-  title={Œuvres compl{\`e}tes de J.-M. Charcot : Le{\c{c}}ons sur les maladies du syst{\`e}me nerveux},
+  title={\href{https://patrimoine.sorbonne-universite.fr/viewer/3468/?offset=1\#page=2\&viewer=picture\&o=\&n=0\&q=}{Œuvres compl{\`e}tes de J.-M. Charcot : Le{\c{c}}ons sur les maladies du syst{\`e}me nerveux}},
   author={Charcot, J.-M.},
   volume={1},
   year={1892},
   publisher={Bureaux du Progr{\`e}s m{\'e}dical},
-  url={https://patrimoine.sorbonne-universite.fr/viewer/3468/?offset=1#page=2&viewer=picture&o=&n=0&q=},
   address={Paris}
 }
 
@@ -116,53 +108,49 @@ url = {https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pd
                   Aidan N. Gomez and
                   Lukasz Kaiser and
                   Illia Polosukhin},
-  title        = {Attention Is All You Need},
+  title        = {\href{http://arxiv.org/abs/1706.03762}{Attention Is All You Need}},
   journal      = {CoRR},
   volume       = {abs/1706.03762},
   year         = {2017},
-  url          = {http://arxiv.org/abs/1706.03762},
   eprinttype    = {arXiv},
   eprint       = {1706.03762}
 }
 
 @book{koyre1957closed,
-  title={From the closed world to the infinite universe},
-  author={Koyr{\'e}, Alexandre},
+  title={\href{https://archive.org/details/fromclosedworldt0000koyr/page/n13/mode/2up?q=revolution}{From the closed world to the infinite universe}},
+  author={Koyr{\'e}, A.},
   volume={1},
   year={1957},
-  publisher={Baltimore, Johns Hopkins Press},
-  note={\url{https://archive.org/details/fromclosedworldt0000koyr/page/n13/mode/2up?q=revolution}}
+  publisher={Baltimore, Johns Hopkins Press}
 }
 
 
 @book{kuhn1962structure,
-  title={La structure des r{\'e}volutions scientifiques},
+  title={\href{https://kupdf.net/download/la-structure-des-r-eacute-volutions-scientifiques-thomas-s-kuhn_590217dadc0d60c957959eb4_pdf}{La structure des r{\'e}volutions scientifiques}},
   author={Kuhn, T. S.},
   year={1962},
   publisher={Flammarion Paris},
-  note={Traduit par Laure Meyer, \url{https://kupdf.net/download/la-structure-des-r-eacute-volutions-scientifiques-thomas-s-kuhn_590217dadc0d60c957959eb4_pdf}}
+  note={Traduit par Laure Meyer.}
 }
 
 @misc{amiri,
-      title={T.S. Kuhn}, 
+      title={\href{https://histoirephilosciences.wordpress.com/depuis-le-20eme-siecles/une-nouvelle-epistemologie/t-s-kuhn/}{T.S. Kuhn}}, 
       author={Amiri, V. V.},
-      year={2012},
-      howpublished={\url{https://histoirephilosciences.wordpress.com/depuis-le-20eme-siecles/une-nouvelle-epistemologie/t-s-kuhn/}}
+      year={2012}
 }
 
 @book{bachelard1934formation,
-  title={La formation de l'esprit scientifique: contribution {\`a} une psychanalyse de la connaissance},
+  title={\href{https://gastonbachelard.org/wp-content/uploads/2015/07/formation_esprit.pdf}{La formation de l'esprit scientifique: contribution {\`a} une psychanalyse de la connaissance}},
   author={Bachelard, G.},
   year={1934},
-  publisher={Vrin},
-  note={\url{https://gastonbachelard.org/wp-content/uploads/2015/07/formation_esprit.pdf}}
+  publisher={Vrin}
 }
 
 @book{willispathologiae,
-  title={Pathologiae cerebri et nervosi generis specimen.},
+  title={\textit{\href{https://quod.lib.umich.edu/e/eebo/A66496.0001.001?rgn=main;view=fulltext}{Pathologiae cerebri et nervosi generis specimen}}},
   author={Willis, T.},
   year={1667/1681},
-  note={\textit{\href{https://quod.lib.umich.edu/e/eebo/A66496.0001.001?rgn=main;view=fulltext}{An essay of the pathology of the brain and nervous stock in which convulsive diseases are treated of}} (trad. par Samuel Pordage)}
+  note={An essay of the pathology of the brain and nervous stock in which convulsive diseases are treated of} (trad. par Samuel Pordage)}
 }
 
 @book{varolio1969nervis,
@@ -199,49 +187,44 @@ url = {https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pd
   }
   
 @article{tasca2012women,
-  title={Women and hysteria in the history of mental health},
+  title={\href{https://doi.org/10.2174/1745017901208010110}{Women and hysteria in the history of mental health}},
   author={Tasca, C. and Rapetti, M. and Carta, M. G. and Fadda, B.},
   journal={Clinical practice and epidemiology in mental health: CP \& EMH},
   volume={8},
   pages={110},
   year={2012},
-  publisher={Bentham Science Publishers},
-  note={\url{https://doi.org/10.2174/1745017901208010110}}
+  publisher={Bentham Science Publishers}
 }
 
 @book{lepois1618,
-  title={Selectiorum observationum et consiliorum de praetervisis hactenus morbis affectibusque praeter naturum, ab aqua seu serosa colluvie et diluvie ortis, liber singularis},
+  title={\href{https://archive.org/details/BIUSante_05814/page/n3/mode/2up}{Selectiorum observationum et consiliorum de praetervisis hactenus morbis affectibusque praeter naturum, ab aqua seu serosa colluvie et diluvie ortis, liber singularis}},
   author={Le Pois, C.},
   year={1618},
-  publisher={Authore Carolo Pisone, Ponte ad Monticulum, apud Carolum Mercatorem},
-  note={\url{https://archive.org/details/BIUSante_05814/page/n3/mode/2up}}
+  publisher={Authore Carolo Pisone, Ponte ad Monticulum, apud Carolum Mercatorem}
 }
 
 @book{charcot1870,
-  title={Manuscrit n° 3 : leçons (Manuscrits des leçons et observations de J.M. Charcot)},
+  title={\href{https://patrimoine.sorbonne-universite.fr/fonds/item/3622-manuscrit-n-3-lecons}{Manuscrit n° 3 : leçons (Manuscrits des leçons et observations de J.M. Charcot)}},
   author={Charcot, J.-M.},
   year={1870},
-  publisher={Bibliothèque de Sorbonne Université (BSU) -- Bibliothèque Charcot},
-  note={\url{https://patrimoine.sorbonne-universite.fr/fonds/item/3622-manuscrit-n-3-lecons}}
+  publisher={Bibliothèque de Sorbonne Université (BSU) -- Bibliothèque Charcot}
 }
 
 @article{camargo2024jean,
-  title={Jean-Martin Charcot: the polymath},
+  title={\href{https://doi.org/10.1055\%2Fs-0043-1775984}{Jean-Martin Charcot: the polymath}},
   author={Camargo, C. H. F. and Coutinho, L. and Correa Neto, Y. and Engelhardt, E. and Maranh{\~a}o Filho, P. and Walusinski, O. and Teive, H. A. G.},
   journal={Arquivos de Neuro-psiquiatria},
   volume={81},
   pages={1098--1111},
   year={2024},
-  publisher={SciELO Brasil},
-  note={\url{https://doi.org/10.1055\%2Fs-0043-1775984}}
+  publisher={SciELO Brasil}
 }
 
 @book{oseki2007,
-  title={De Walter Benjamin à nos jours : essais de traductologie},
+  title={\href{https://www.honorechampion.com/fr/editions-honore-champion/6831-book-08531497-9782745314970.html}{De Walter Benjamin à nos jours : essais de traductologie}},
   author={Oseki-Dépré, I.},
   year={2007},
-  publisher={Paris : Honoré Champion},
-  note={\url{https://www.honorechampion.com/fr/editions-honore-champion/6831-book-08531497-9782745314970.html}}
+  publisher={Paris : Honoré Champion}
 }
 
 
@@ -253,33 +236,70 @@ url = {https://docs.bvsalud.org/biblioref/2018/07/907032/revista542v4-artigo6.pd
 }
 
 @book{kant1863,
-  title={Anthropologie d'un point de vue pragmatique \normalfont{(trad. J. Tissot)}},
-  author={Kant, {\'E}mmanuel},
+  title={\href{https://fr.wikisource.org/wiki/Anthropologie_d\%E2\%80\%99un_point_de_vue_pragmatique}{Anthropologie d'un point de vue pragmatique}, \normalfont{(trad. J. Tissot)}},
+  author={Kant, {\'E}.},
   year={1863},
-  publisher={Librairie Ladrange (originalement publié en 1798)},
-  note={\url{https://fr.wikisource.org/wiki/Anthropologie_d\%E2\%80\%99un_point_de_vue_pragmatique}}
+  publisher={Librairie Ladrange (originalement publié en 1798)}
 }
 
 @article{bogousslavsky2020,
 author = {Julien Bogousslavsky},
-title = {The mysteries of hysteria: a historical perspective},
+title = {\href{https://doi.org/10.1080/09540261.2020.1772731}{The mysteries of hysteria: a historical perspective}},
 journal = {International Review of Psychiatry},
 volume = {32},
 number = {5-6},
 pages = {437-450},
 year = {2020},
-publisher = {Taylor & Francis},
-note ={\url{https://doi.org/10.1080/09540261.2020.1772731}},
+publisher = {Taylor & Francis}
 
 }
 
 @article{BROUSSOLLE2012301,
-title = {Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III: Neurology},
+title = {\href{https://doi.org/10.1016/j.neurol.2011.10.006}{Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III: Neurology}},
 journal = {Revue Neurologique},
 volume = {168},
 number = {4},
 pages = {301-320},
 year = {2012},
-author = {E. Broussolle and J. Poirier and F. Clarac and J.-G. Barbara},
-note={\url{https://doi.org/10.1016/j.neurol.2011.10.006}}
+author = {E. Broussolle and J. Poirier and F. Clarac and J.-G. Barbara}
+}
+
+@misc{grootendorst2020keybert,
+  author       = {M. Grootendorst},
+  title        = {\href{https://doi.org/10.5281/zenodo.4461265}{KeyBERT: Minimal keyword extraction with BERT.}},
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0.3.0}
+}
+
+@conference{schopf22,
+author={T. Schopf and S. Klimek and F. Matthes},
+title={\href{https://doi.org/10.5220/0011546600003335}{PatternRank: Leveraging Pretrained Language Models and Part of Speech for Unsupervised Keyphrase Extraction}},
+booktitle={Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management - KDIR},
+year={2022},
+pages={243-248},
+publisher={SciTePress},
+organization={INSTICC}
+}
+
+@inproceedings{boutin2006biais,
+  title={\href{https://archivesic.ccsd.cnrs.fr/sic\_00827309}{Biais cognitifs et recherche d'information sur internet. Quelles perspectives pour les indicateurs de pertinence des moteurs de recherche}},
+  author={Boutin, E.},
+  booktitle={VSST 2006},
+  pages={1--7},
+  year={2006}
+}
+
+@article{grootendorst2022bertopic,
+  title={\href{https://arxiv.org/abs/2203.05794}{BERTopic: Neural topic modeling with a class-based TF-IDF procedure}},
+  author={Grootendorst, M.},
+  journal={arXiv preprint arXiv:2203.05794},
+  year={2022}
+}
+
+@article{jayanthi2020neuspell,
+  title={\href{https://aclanthology.org/2020.emnlp-demos.21.pdf}{Neuspell: A {N}eural {S}pelling {C}orrection {T}oolkit}},
+  author={Jayanthi, S. M. and Pruthi, D. and Neubig, G.},
+  journal={arXiv preprint arXiv:2010.11085},
+  year={2020}
 }

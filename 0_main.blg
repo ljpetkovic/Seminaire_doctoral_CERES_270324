@@ -2,6 +2,11 @@ This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: 0_main.aux
 The style file: biblatex.bst
+This database file appears more than once: ref.bib
+---line 19 of file 0_main.aux
+ : \bibdata{0_main-blx,ref,ref
+ :                            }
+I'm skipping whatever remains of this command
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
@@ -19,47 +24,53 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: 0_main-blx.bib
 Database file #2: ref.bib
+I was expecting a `,' or a `}'---line 153 of file ref.bib
+ :   note={An essay of the pathology of the brain and nervous stock in which convulsive diseases are treated of} 
+ :                                                                                                               (trad. par Samuel Pordage)}
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "camargo2024"
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 20 entries,
+You've used 26 entries,
             6399 wiz_defined-function locations,
-            1331 strings with 13561 characters,
-and the built_in function-call counts, 157335 in all, are:
-= -- 12940
-> -- 2177
-< -- 844
-+ -- 4117
-- -- 645
-* -- 10908
-:= -- 16716
+            1349 strings with 14944 characters,
+and the built_in function-call counts, 195636 in all, are:
+= -- 15779
+> -- 2871
+< -- 1059
++ -- 5213
+- -- 864
+* -- 13446
+:= -- 20752
 add.period$ -- 0
-call.type$ -- 20
-change.case$ -- 592
+call.type$ -- 26
+change.case$ -- 718
 chr.to.int$ -- 42
-cite$ -- 38
-duplicate$ -- 15854
-empty$ -- 14042
-format.name$ -- 1179
-if$ -- 32661
+cite$ -- 50
+duplicate$ -- 20240
+empty$ -- 17381
+format.name$ -- 1579
+if$ -- 40589
 int.to.chr$ -- 0
-int.to.str$ -- 52
+int.to.str$ -- 73
 missing$ -- 0
-newline$ -- 662
-num.names$ -- 1202
-pop$ -- 6873
+newline$ -- 817
+num.names$ -- 1534
+pop$ -- 9040
 preamble$ -- 1
-purify$ -- 678
+purify$ -- 832
 quote$ -- 0
-skip$ -- 4333
+skip$ -- 5560
 stack$ -- 0
-substring$ -- 23704
-swap$ -- 3288
-text.length$ -- 505
-text.prefix$ -- 19
+substring$ -- 28226
+swap$ -- 4137
+text.length$ -- 670
+text.prefix$ -- 25
 top$ -- 1
-type$ -- 668
+type$ -- 871
 warning$ -- 0
-while$ -- 1931
+while$ -- 2448
 width$ -- 0
-write$ -- 643
+write$ -- 792
+(There were 2 error messages)
