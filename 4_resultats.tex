@@ -34,19 +34,19 @@
 \danger{} impossible de quantifier l'importance des phrasèmes
 \begin{figure}[!h]
     \centering
-\includegraphics[width=90mm,scale=0.5]{pic/bulbe_rachidien.png}
+\includegraphics[width=100mm,scale=0.5]{pic/bulbe_rachidien.png}
     \caption{Distribution d'occurrences des tokens avec la frise chronologique pour ceux constituant l'expression \textit{bulbe rachidien}.}
     \label{fig:my_label}
 \end{figure}
 % citations directes (\cite{manjavacas2019})
 \end{frame}
 
-\begin{frame}{TextPair -- corpus Charcot\footnote{\url{https://anomander.uchicago.edu/text-pair/charcot2autres/}}}
+\begin{frame}{TextPair -- corpus Charcot\footnote{\footnotesize\url{https://anomander.uchicago.edu/text-pair/charcot2autres/}}}
 \danger{} nombre de
 résultats parfois assez conséquent $\rightarrow$ filtrage
     \begin{figure}[!ht]
         \centering
-        \includegraphics[width=90mm,scale=0.5]{pic/textpair.png}
+        \includegraphics[width=100mm,scale=0.5]{pic/textpair.png}
         \caption{Réemploi du terme \textit{sclérose latérale amyotrophique} dans les textes de Charcot et de de la Tourette (le seul résultat).}
         \label{fig:enter-label}
     \end{figure}
@@ -79,6 +79,7 @@ Mesure pour quantifier l'importance ou la pertinence des représentations lexica
 \begin{frame}{\textsc{BM-25}\footnote{angl. \textit{best match} 25.}}
 
 \begin{block}{}
+\justifying
 Modèle de classement basé sur des termes qui vise à fournir des résultats de recherche précis et pertinents en classant les documents en fonction de la fréquence de leurs termes et de leur longueur.
 \end{block}
 
@@ -90,16 +91,17 @@ Modèle de classement basé sur des termes qui vise à fournir des résultats de
 \end{enumerate}
 \medskip
 
-\color{warmblack}{TF-IDF et BM25 sont les mesures couramment utilisées dans le domaine de recherche d'information (angl. \textit{information retrieval}) 
-\\$\rightarrow$ mathématiquement assez proches, surtout si appliquées sur un seul document.}
+\color{warmblack}{TF-IDF et BM25 couramment utilisées dans la recherche d'information\footnote{angl. \textit{information retrieval}.} 
+\\$\rightarrow$ mathématiquement proches quand appliquées sur un document.}
 
 \end{frame}
 
 \begin{frame}{Intensification du lexique
 de Charcot dans le corpus \og{}Autres\fg}
+Le terme le plus impactant pour le réseau de Charcot :\\ \textit{sclérose en plaque disséminées} ? (pertinence : 85\%)
 \begin{figure}[!h]
     \centering
-\includegraphics[width=94mm,scale=0.5]{pic/Charcot_Autres_250523.png}
+\includegraphics[width=80mm,scale=0.5]{pic/Charcot_Autres_250523.png}
     \caption{Pertinence des concepts dans les deux corpus (BM25).}
     \label{fig:my_label}
 \end{figure}
@@ -109,7 +111,7 @@ de Charcot dans le corpus \og{}Autres\fg}
 \begin{frame}{\textsc{BERT}}
 \cite{vaswani2021}
     \begin{itemize}
-        \item plongements lexicaux et des
+        \item architecture : plongements lexicaux et
 mécanismes d’attention
         \item modèle \texttt{bert-base-multilingual-cased}
         \item censé bien capturer la sémantique
@@ -191,11 +193,11 @@ cicatrices vicieuses (0,46) \\
   \multicolumn{1}{|r|}{{149}} &
   \multicolumn{1}{|r|}{{0.27}} &
   \multicolumn{1}{|r|}{{0.15}} &
-  {0.89} \\ \hline
+  {\textbf{0.89}} \\ \hline
 {Paralysie rhumatismale} &
   \multicolumn{1}{|r|}{{8}} &
   \multicolumn{1}{|r|}{{0.07}} &
-  \multicolumn{1}{|r|}{{0.67}} &
+  \multicolumn{1}{|r|}{{\textbf{0.67}}} &
   {0.86} \\ \hline
 {Sclérose latérale} &
   \multicolumn{1}{|r|}{{445}} &
@@ -211,7 +213,7 @@ cicatrices vicieuses (0,46) \\
   \multicolumn{1}{|r|}{{847}} &
   \multicolumn{1}{|r|}{{0.49}} &
   \multicolumn{1}{|r|}{{0.05}} &
-  {0.89} \\ \hline
+  {\textbf{0.89}} \\ \hline
 \end{tabular}
 \caption{Calcul de pertinence des concepts selon TF-IDF, BM25 et BERT, corpus \og{}Charcot\fg{}.}
 \end{table}
@@ -232,7 +234,7 @@ cicatrices vicieuses (0,46) \\
 {Arthrite déformante} &
   \multicolumn{1}{|r|}{{24}} &
   \multicolumn{1}{|r|}{{0.02}} &
-  \multicolumn{1}{|r|}{{\textbf{0.50}}} &
+  \multicolumn{1}{|r|}{{0.50}} &
   {0.40} \\ \hline
 {Ataxie locomotrice} &
   \multicolumn{1}{|r|}{{169}} &
@@ -241,7 +243,7 @@ cicatrices vicieuses (0,46) \\
   {0.39} \\ \hline
 {Atrophie musculaire} &
   \multicolumn{1}{|r|}{{1 465}} &
-  \multicolumn{1}{|r|}{{0.43}} &
+  \multicolumn{1}{|r|}{{\textbf{0.43}}} &
   \multicolumn{1}{|r|}{{0.15}} &
   {0.42} \\ \hline
 {Atrophie progressive} &
@@ -283,7 +285,7 @@ cicatrices vicieuses (0,46) \\
   \multicolumn{1}{|r|}{{14}} &
   \multicolumn{1}{|r|}{{0.02}} &
   \multicolumn{1}{|r|}{{\textbf{0.68}}} &
-  {0.44} \\ \hline
+  {\textbf{0.44}} \\ \hline
 {Sclérose latérale} &
   \multicolumn{1}{|r|}{{127}} &
   \multicolumn{1}{|r|}{{0.09}} &
@@ -292,7 +294,7 @@ cicatrices vicieuses (0,46) \\
 {Sclérose en plaque disséminées} &
   \multicolumn{1}{|r|}{{12}} &
   \multicolumn{1}{|r|}{{0.02}} &
-  \multicolumn{1}{|r|}{{\textbf{0.83}}} &
+  \multicolumn{1}{|r|}{{0.83}} &
   {0.40} \\ \hline
 {Somnambulisme} &
   \multicolumn{1}{|r|}{{3 410}} &
