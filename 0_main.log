@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 02:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,31 +2237,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^@[0^^×`
+ -> ^^ü9j^^^^SY
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^É^^Ô^^S^^I^^F
+ -> ^^,^^0d^^Ñ^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^^^Ô^^S^^I^^F
+ -> #^^1d^^Ñ^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^"^^Ô^^S^^I^^F
+ -> A^^1d^^Ñ^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^"^^Ô^^S^^I^^F
+ -> A^^1d^^Ñ^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^_^^Õ^^S^^I^^F
+ -> ^^?^^1d^^Ñ^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> @^^Õ^^S^^I^^F
+ -> ^^ß^^1d^^Ñ^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> f^^Õ^^S^^I^^F
+ -> ^^^^1d^^Ñ^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^Æ^^Õ^^S^^I^^F
+ -> ^^&^^1d^^Ñ^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> )^^EK0^^×`
+ -> (wz^^^^SY
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^î^^Õ^^S^^I^^F
+ -> ^^M^^2d^^Ñ^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ð^^ÜH0^^×`
+ -> /^^MD^^^^SY
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ð^^Õ^^S^^I^^F
+ -> ^^O^^2d^^Ñ^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -3093,7 +3093,7 @@ lnum;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95pt
- -> 5^^9^^ð0^^×`
+ -> ^^%^^ã^^M^^^^SY
 Requested font "cmss8" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 Requested font "cmss8" at 6.8pt
@@ -3637,7 +3637,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 Missing character: There is no 2 ("32) in font nullfont!
 Missing character: There is no 5 ("35) in font nullfont!
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 77.
+(Font)              scaled to size 12.0pt on input line 78.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;+smcp;mapping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
@@ -3669,7 +3669,7 @@ File: pic/Charcot_Autres_250523.png Graphic file (type bmp)
 
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (5.33794pt too high) detected at line 108
+Overfull \vbox (5.33794pt too high) detected at line 109
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3694,7 +3694,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ! Undefined control sequence.
 \@sharp ->\multirow 
                     {}{}{{Terme}}
-l.222 \end{frame}
+l.223 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3703,7 +3703,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 222.
+(Font)              scaled to size 8.0pt on input line 223.
 Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
 m;mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
@@ -3721,7 +3721,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ! Undefined control sequence.
 \@sharp ->\multirow 
                     {}{}{{Terme}}
-l.309 \end{frame}
+l.310 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3741,14 +3741,14 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ]
 
 Package fourier-orns Warning: Command \danger is deprecated.
-(fourier-orns)                Use \warning instead; reported on input line 324.
+(fourier-orns)                Use \warning instead; reported on input line 325.
 
 
 File: pic/keybert_autres.png Graphic file (type bmp)
 <pic/keybert_autres.png>
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (4.5657pt too high) detected at line 324
+Overfull \vbox (4.5657pt too high) detected at line 325
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3765,7 +3765,7 @@ File: pic/visualisation_termes_dupliques.png Graphic file (type bmp)
 
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (0.15897pt too high) detected at line 333
+Overfull \vbox (0.15897pt too high) detected at line 334
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3946,10 +3946,10 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45023 strings out of 476191
- 946509 string characters out of 5812072
- 1675492 words of memory out of 5000000
- 64760 multiletter control sequences out of 15000+600000
+ 45018 strings out of 476191
+ 946376 string characters out of 5812072
+ 1675403 words of memory out of 5000000
+ 64755 multiletter control sequences out of 15000+600000
  514460 words of font info for 220 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5705s stack positions out of 5000i,500n,10000p,200000b,80000s
