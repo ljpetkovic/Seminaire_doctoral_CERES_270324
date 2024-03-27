@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 01:49
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 02:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,31 +2237,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^Ü<^^_^^1^^!d
+ -> ^^þ&^^àS^^(b
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> L^^6{N^^F
+ -> z^^^^'.^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Ã^^6{N^^F
+ -> ^^ö^^^^'.^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^á^^6{N^^F
+ -> ^^^^^^'.^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^á^^6{N^^F
+ -> ^^^^^^'.^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^^^6{N^^F
+ -> ^^Q^^^^'.^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^?^^6{N^^F
+ -> 1^^^^'.^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> %^^7{N^^F
+ -> X^^^^'.^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> E^^7{N^^F
+ -> x^^^^'.^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> Hq^^O^^1^^!d
+ -> j{^^ðS^^(b
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> m^^7{N^^F
+ -> ^^à^^^^'.^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^O^^I^^M^^1^^!d
+ -> ^^^^3^^ýS^^(b
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> o^^7{N^^F
+ -> ^^â^^^^'.^^F
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -3093,7 +3093,7 @@ lnum;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95pt
- -> ^^Ô^^é^^^^1^^!d
+ -> ^^×ZES^^(b
 Requested font "cmss8" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 Requested font "cmss8" at 6.8pt
@@ -3694,7 +3694,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ! Undefined control sequence.
 \@sharp ->\multirow 
                     {}{}{{Terme}}
-l.220 \end{frame}
+l.222 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3703,7 +3703,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 8.0pt on input line 220.
+(Font)              scaled to size 8.0pt on input line 222.
 Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
 m;mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
@@ -3721,7 +3721,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ! Undefined control sequence.
 \@sharp ->\multirow 
                     {}{}{{Terme}}
-l.307 \end{frame}
+l.309 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3741,14 +3741,14 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 ]
 
 Package fourier-orns Warning: Command \danger is deprecated.
-(fourier-orns)                Use \warning instead; reported on input line 322.
+(fourier-orns)                Use \warning instead; reported on input line 324.
 
 
 File: pic/keybert_autres.png Graphic file (type bmp)
 <pic/keybert_autres.png>
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (4.5657pt too high) detected at line 322
+Overfull \vbox (4.5657pt too high) detected at line 324
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3765,7 +3765,7 @@ File: pic/visualisation_termes_dupliques.png Graphic file (type bmp)
 
 Missing character: There is no 4 ("34) in font nullfont!
 
-Overfull \vbox (0.15897pt too high) detected at line 331
+Overfull \vbox (0.15897pt too high) detected at line 333
  []
 
 Missing character: There is no 4 ("34) in font nullfont!

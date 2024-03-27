@@ -34,7 +34,7 @@
 \danger{} impossible de quantifier l'importance des phrasèmes
 \begin{figure}[!h]
     \centering
-\includegraphics[width=100mm,scale=0.5]{pic/bulbe_rachidien.png}
+\includegraphics[width=105mm,scale=0.5]{pic/bulbe_rachidien.png}
     \caption{Distribution d'occurrences des tokens avec la frise chronologique pour ceux constituant l'expression \textit{bulbe rachidien}.}
     \label{fig:my_label}
 \end{figure}
@@ -121,11 +121,12 @@ mécanismes d’attention
 \hline
 Corpus \og{}Charcot\fg{}          & Corpus \og{}Autres\fg{} \\
 \hline
-diplopie (0,92)                & préambule (0,47)  \\
-myélite partielle (0,91)       & délire (0,47)     \\
-état de mal épileptique (0,91) & miracle (0,47)   \\
-paralysie labio-glosso-laryngée (0,91) &
-cicatrices vicieuses (0,46) \\
+diplopie (0.92)                		&  main (0.55) \\
+myélite partielle (0.91)               & écriture (0.48)   \\
+état de mal épileptique (0.91)       	& préambule (0.47)     \\
+paralysie labio-glosso-laryngée (0.91) & délire (0.47)   \\
+angioneuroses (0.91)					& miracle (0.47) \\
+										& cicatrices vicieuses (0,46) \\
 \textsc{pathologies} & \textsc{notions abstraites} \\
 \hline 
 \end{tabular}
@@ -308,10 +309,14 @@ cicatrices vicieuses (0,46) \\
 
 \begin{frame}{\texttt{keybert}}
 \danger{} manque de diversification des résultats\\
-Les seuls termes partagés avec le corpus Charcot :
+Les seuls termes partagés avec le corpus Charcot (absents ici) : 
+\begin{itemize}
+\item articulations de [\textit{sic}] épaule
+\item paralysie faciale périphérique
+\end{itemize}
     \begin{figure}[!ht]
         \centering
-        \includegraphics[width=110mm,scale=0.5]{pic/keybert_autres.png}
+        \includegraphics[width=90mm,scale=0.5]{pic/keybert_autres.png}
         \caption{Répartition des termes les plus pertinents pour le corpus \og{}Autres\fg{} selon \texttt{keybert}.}
         \label{fig:enter-label}
     \end{figure}
@@ -320,7 +325,7 @@ Les seuls termes partagés avec le corpus Charcot :
 \begin{frame}{\texttt{keyphrase-vectorizers}}
     \begin{figure}[!ht]
         \centering
-        \includegraphics[width=80mm,scale=0.5]{pic/visualisation_termes_dupliques.png}
+        \includegraphics[width=85mm,scale=0.5]{pic/visualisation_termes_dupliques.png}
         \caption{Les termes communs pour le corpus \og{}Autres\fg{} selon \texttt{keyphrase-vectorizers}.}
         \label{fig:enter-label}
     \end{figure}
