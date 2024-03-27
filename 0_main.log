@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  26 MAR 2024 22:52
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 01:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,32 +2237,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> G^^ÜZ/^^Vd
+ -> ^^Ü<^^_^^1^^!d
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^^^%^^FA^^F
+ -> L^^6{N^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^>^^%^^FA^^F
+ -> ^^Ã^^6{N^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^\^^&^^FA^^F
+ -> ^^á^^6{N^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^\^^&^^FA^^F
+ -> ^^á^^6{N^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> Z^^&^^FA^^F
+ -> ^^^^6{N^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> z^^&^^FA^^F
+ -> ^^?^^6{N^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^à^^&^^FA^^F
+ -> %^^7{N^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^^^&^^FA^^F
+ -> E^^7{N^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^C^^j/^^Vd
+ -> Hq^^O^^1^^!d
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^(^^&^^FA^^F
+ -> m^^7{N^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^
-Ih/^^Vd
+ -> ^^O^^I^^M^^1^^!d
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^*^^&^^FA^^F
+ -> o^^7{N^^F
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -2456,6 +2455,12 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 
 LaTeX Warning: Label `fig:my_label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
+
+
+LaTeX Warning: Label `fig:enter-label' multiply defined.
 
 )
 \openout1 = `0_main.aux'.
@@ -3088,7 +3093,7 @@ lnum;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95pt
- -> ?^^)^^ñ/^^Vd
+ -> ^^Ô^^é^^^^1^^!d
 Requested font "cmss8" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 Requested font "cmss8" at 6.8pt
@@ -3734,7 +3739,18 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [27
 
 ]
+
+Package fourier-orns Warning: Command \danger is deprecated.
+(fourier-orns)                Use \warning instead; reported on input line 322.
+
+
+File: pic/keybert_autres.png Graphic file (type bmp)
+<pic/keybert_autres.png>
 Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \vbox (4.5657pt too high) detected at line 322
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -3743,7 +3759,15 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [28
 
-]) (./0_main.toc)
+]
+File: pic/visualisation_termes_dupliques.png Graphic file (type bmp)
+<pic/visualisation_termes_dupliques.png>
+
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \vbox (0.15897pt too high) detected at line 331
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -3752,10 +3776,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [29
 
-] (./5_conclusion.tex
-Missing character: There is no 3 ("33) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
+]) (./0_main.toc)
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -3764,7 +3785,9 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [30
 
-]
+] (./5_conclusion.tex
+Missing character: There is no 3 ("33) in font nullfont!
+Missing character: There is no 5 ("35) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3785,7 +3808,17 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [32
 
 ]
-Overfull \hbox (7.78534pt too wide) in paragraph at lines 67--67
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[33
+
+]
+Overfull \hbox (7.78534pt too wide) in paragraph at lines 68--68
 []\TU/AlegreyaSans(0)/m/n/10.95 Un grand merci Ã  Valentina Fedchenko (ingÃ©nieur
 e de recherche de lâ€™Ã©quipe-
  []
@@ -3797,7 +3830,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[33
+[34
 
 ])
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -3862,18 +3895,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[34
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
 [35
-
 
 ]
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3884,6 +3906,17 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
  []
 
 [36
+
+
+]
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[37
 
 
 ]
@@ -3915,12 +3948,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45007 strings out of 476191
- 946094 string characters out of 5812072
- 1675486 words of memory out of 5000000
- 64746 multiletter control sequences out of 15000+600000
+ 45025 strings out of 476191
+ 946652 string characters out of 5812072
+ 1676499 words of memory out of 5000000
+ 64762 multiletter control sequences out of 15000+600000
  514460 words of font info for 220 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5705s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (36 pages).
+Output written on 0_main.pdf (37 pages).
