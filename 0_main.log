@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 02:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  27 MAR 2024 02:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2237,31 +2237,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^þ&^^àS^^(b
+ -> ^^@[0^^×`
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> z^^^^'.^^F
+ -> ^^É^^Ô^^S^^I^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^ö^^^^'.^^F
+ -> ^^^^Ô^^S^^I^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^^^^^'.^^F
+ -> ^^"^^Ô^^S^^I^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^^^^^'.^^F
+ -> ^^"^^Ô^^S^^I^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Q^^^^'.^^F
+ -> ^^_^^Õ^^S^^I^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> 1^^^^'.^^F
+ -> @^^Õ^^S^^I^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> X^^^^'.^^F
+ -> f^^Õ^^S^^I^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> x^^^^'.^^F
+ -> ^^Æ^^Õ^^S^^I^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> j{^^ðS^^(b
+ -> )^^EK0^^×`
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^à^^^^'.^^F
+ -> ^^î^^Õ^^S^^I^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^^^3^^ýS^^(b
+ -> ^^ð^^ÜH0^^×`
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^â^^^^'.^^F
+ -> ^^ð^^Õ^^S^^I^^F
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -3093,7 +3093,7 @@ lnum;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95pt
- -> ^^×ZES^^(b
+ -> 5^^9^^ð0^^×`
 Requested font "cmss8" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 Requested font "cmss8" at 6.8pt
@@ -3861,8 +3861,6 @@ File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
 <use beamericonarticle.pdf>
-File: beamericonarticle.pdf Graphic file (type pdf)
-<use beamericonarticle.pdf>
 File: beamericonbook.pdf Graphic file (type pdf)
 <use beamericonbook.pdf>
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -3948,10 +3946,10 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 45025 strings out of 476191
- 946652 string characters out of 5812072
- 1676499 words of memory out of 5000000
- 64762 multiletter control sequences out of 15000+600000
+ 45023 strings out of 476191
+ 946509 string characters out of 5812072
+ 1675492 words of memory out of 5000000
+ 64760 multiletter control sequences out of 15000+600000
  514460 words of font info for 220 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  128i,21n,122p,1859b,5705s stack positions out of 5000i,500n,10000p,200000b,80000s

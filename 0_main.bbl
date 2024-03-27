@@ -332,29 +332,6 @@
     \field{year}{2021}
   \endentry
 
-  \entry{grootendorst2022bertopic}{article}{}
-    \name{author}{1}{}{%
-      {{hash=GM}{%
-         family={Grootendorst},
-         familyi={G\bibinitperiod},
-         given={M.},
-         giveni={M\bibinitperiod},
-      }}%
-    }
-    \strng{namehash}{GM1}
-    \strng{fullhash}{GM1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelyear}{2022}
-    \field{labeldatesource}{}
-    \field{sortinit}{G}
-    \field{sortinithash}{G}
-    \field{title}{\href{https://arxiv.org/abs/2203.05794}{BERTopic: Neural
-  topic modeling with a class-based TF-IDF procedure}}
-    \field{journaltitle}{arXiv preprint arXiv:2203.05794}
-    \field{year}{2022}
-  \endentry
-
   \entry{grootendorst2020keybert}{misc}{}
     \name{author}{1}{}{%
       {{hash=GM}{%

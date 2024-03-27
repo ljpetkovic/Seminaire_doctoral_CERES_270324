@@ -32,45 +32,45 @@ Warning--I didn't find a database entry for "camargo2024"
 Biblatex version: 3.17
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 26 entries,
+You've used 25 entries,
             6399 wiz_defined-function locations,
-            1349 strings with 14944 characters,
-and the built_in function-call counts, 195636 in all, are:
-= -- 15779
-> -- 2871
-< -- 1059
-+ -- 5213
-- -- 864
-* -- 13446
-:= -- 20752
+            1345 strings with 14765 characters,
+and the built_in function-call counts, 191255 in all, are:
+= -- 15508
+> -- 2782
+< -- 1035
++ -- 5120
+- -- 838
+* -- 13155
+:= -- 20341
 add.period$ -- 0
-call.type$ -- 26
-change.case$ -- 718
+call.type$ -- 25
+change.case$ -- 708
 chr.to.int$ -- 42
-cite$ -- 50
-duplicate$ -- 20240
-empty$ -- 17381
-format.name$ -- 1579
-if$ -- 40589
+cite$ -- 48
+duplicate$ -- 19729
+empty$ -- 16949
+format.name$ -- 1526
+if$ -- 39654
 int.to.chr$ -- 0
-int.to.str$ -- 73
+int.to.str$ -- 69
 missing$ -- 0
-newline$ -- 817
-num.names$ -- 1534
-pop$ -- 9040
+newline$ -- 795
+num.names$ -- 1487
+pop$ -- 8700
 preamble$ -- 1
-purify$ -- 832
+purify$ -- 820
 quote$ -- 0
-skip$ -- 5560
+skip$ -- 5391
 stack$ -- 0
-substring$ -- 28226
-swap$ -- 4137
-text.length$ -- 670
-text.prefix$ -- 25
+substring$ -- 27845
+swap$ -- 4014
+text.length$ -- 646
+text.prefix$ -- 24
 top$ -- 1
-type$ -- 871
+type$ -- 837
 warning$ -- 0
-while$ -- 2448
+while$ -- 2394
 width$ -- 0
-write$ -- 792
+write$ -- 771
 (There were 2 error messages)
